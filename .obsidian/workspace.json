@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afc972b997ee1992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RL/A-star/A-star algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/A-star/A-star algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/A-star/A-star algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md"
+                "file": "RL/A-star/A-star algorithm.md"
               }
             }
           }
@@ -147,8 +160,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "504f413f24fbd51d",
+  "active": "afc972b997ee1992",
   "lastOpenFiles": [
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "RL/A-star/A-star algorithm.md",
+    "RL/A-star",
+    "RL/A",
+    "RL/新建文件夹",
+    "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/2310.13227.pdf",
+    "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/未确认 852664.crdownload",
+    "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223945.png",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223746.png",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211222759.png",
@@ -159,8 +180,6 @@
     "RL/Pasted image 20231211222759.png",
     "RL/Pasted image 20231211221555.png",
     "RL/1702306920057.png",
-    "1702306920057.png",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.pdf",
     "README.md",
