@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac17431d453a35c",
+        "id": "e22f300ea87dc980",
         "type": "tabs",
         "children": [
           {
-            "id": "73095768cfa52aca",
+            "id": "504f413f24fbd51d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md"
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md"
               }
             }
           }
@@ -147,12 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "73095768cfa52aca",
+  "active": "504f413f24fbd51d",
   "lastOpenFiles": [
+    "RL/Pasted image 20231211162242.png",
+    "RL/Pasted image 20231211191419.png",
+    "RL/Pasted image 20231211191351.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "RL/Pasted image 20231211183547.png",
+    "RL/Pasted image 20231211180800.png",
+    "RL/Pasted image 20231211180245.png",
     "README.md",
     "新建 文本文档.txt",
     "未命名.canvas",
-    "Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "2023-12-11.md",
     "RL"
   ]
