@@ -71,4 +71,3 @@ $$
 接下来，把这个概率分布q唯一分解为token-level：
 ![[Pasted image 20231211191351.png]]
 ![[Pasted image 20231211191419.png]]
-[]()

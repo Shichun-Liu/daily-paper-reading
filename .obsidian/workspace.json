@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -148,10 +149,11 @@
   },
   "active": "504f413f24fbd51d",
   "lastOpenFiles": [
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle.pdf",
     "RL/Pasted image 20231211162242.png",
     "RL/Pasted image 20231211191419.png",
     "RL/Pasted image 20231211191351.png",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Pasted image 20231211183547.png",
     "RL/Pasted image 20231211180800.png",
     "RL/Pasted image 20231211180245.png",
