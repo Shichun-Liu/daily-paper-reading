@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "79e07b49cb512e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac17431d453a35c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73095768cfa52aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "253dbe0032b4b5a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3812a7b83473d77e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6169f06db7d862c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b960dd9d56e668eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4df7c6fb86747b65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c8e7a2d2865e4e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "90013096eda587fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e775a4bb84a9c5b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5c64203cedb1d7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab228e7d59fc50fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c12c6f760555921a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "73095768cfa52aca",
+  "lastOpenFiles": [
+    "README.md",
+    "新建 文本文档.txt",
+    "未命名.canvas",
+    "Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "2023-12-11.md",
+    "RL"
+  ]
+}
