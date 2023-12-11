@@ -1,3 +1,4 @@
+
 2022.5，2022.10
 
 > [!note] 一句话总结
@@ -18,6 +19,7 @@
 	- text generation with lexical constraints 具有词汇约束的文本生成；
 	- machine translation with formality control 带有形式控制的机器翻译；
 ![[Pasted image 20231211162242.png]]
+
 左图：NADO的训练，从一个base model的生成中进行采样，由一个sequence-level的判别器产生监督信号；base-model在这个过程中不需要fine-tuning；
 
 右图：decompose the sequence-level oracle into token-level guidance, such that when generating the i−th token in the output sequence given the prefix, instead of sampling from the base model, we modify the probability distribution of the output token based on the token-level guidance.
@@ -57,7 +59,7 @@
 	辅助模型也是自回归model；辅助模型的结果和指示函数的结果一致；辅助模型与base model尽可能接近；
 
 ![[Pasted image 20231211180800.png]]
-定义两个概率：
+定义两个后验概率（待定）：
 - 输入成功率：对于给定输入x，通过base model p得到的结果y最终满足指示函数的概率$R^C_p(x)$；
 - 序列成功率：对于给定输入x以及部分序列$y_{<i}$，通过base model p得到结果y最终最终满足指示函数的概率$R^C_p(x,y_{<i})$;
 ### 解析解的给出
@@ -68,6 +70,45 @@
 $$
 q^*(y|x)=\frac{p(y|x)}{R^C_p(x)}
 $$
-接下来，把这个概率分布q唯一分解为token-level：
+接下来，把这个概率分布q唯一分解为token-level：通过第i步相关的后验概率，影响于p；
 ![[Pasted image 20231211191351.png]]
 ![[Pasted image 20231211191419.png]]
+#### 软约束的情况
+********
+- 2式的约束过于强硬，可能缺乏多样性；改成一个软约束：用一个比率r来调整准确性；
+![[Pasted image 20231211221555.png]]
+本文中只考虑硬约束的情况，虽然NADO的方法也能适用于软约束的情况；
+
+这里我们不免会提出一个问题，***如何获得***细粒度的后验概率？这便是NADO的核心；
+
+### $R^C_p$的近似计算
+- **训练一个model来给出 $R^C_p$ 的近似值；用 $R^C_\theta$ 表示**；
+- 下面还计算了理论的sequence-level的分布误差的上界；
+![[Pasted image 20231211222759.png]]
+这两个lemma说明，当model足够逼近（用delta）描述最大误差，那么model同最优值的误差存在上限且与长度无关；
+
+### 训练NADO
+- 采样x，y；
+- C(x,y)给出label；
+- 使用交叉熵损失函数:
+$$
+L_{CE}(x,y,R^C_\theta)=\sum_{i=0}^{T}CE(R^C_\theta (x,y_{<i}),C(x,y))
+$$
+![[Pasted image 20231211223746.png]]
+在加上一个正则化项（避免p和q偏离太远），得到完整的损失函数：
+![[Pasted image 20231211223945.png]]
+采样技巧：
+- 引入温度，改变对于原始p的相关性；
+- 重要性采样，可能数据集并不均匀，C(x,y)=0情况居多；需要平衡正例负例的数量；
+
+具体的训练过程（Text Generation with Lexical Constraints任务）
+#### 数据
+- 原始样本中没有负例；
+- 分为无监督和有监督两类任务（上面提到的图为有监督的情况）；
+#### 模型
+- seq2seq基础模型: p(y|x),将词汇约束视为条件序列输入;
+- (DA base model) A language model that is only domain-adapted to p(y) but unconditioned on anything. 这个更难，因为只用NADO来实现词汇约束；更能验证有效性；
+- 从GPT-2-Large进行微调，训练NADO，输入关键词汇，输出token-level guidance ；
+![[1702306920057.png]]
+
+对于具体训练过程感觉没有交代的很清楚；不过我大概了解了；

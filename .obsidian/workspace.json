@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md"
+                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md"
               }
             }
           }
@@ -149,14 +149,20 @@
   },
   "active": "504f413f24fbd51d",
   "lastOpenFiles": [
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle.md",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle.pdf",
-    "RL/Pasted image 20231211162242.png",
-    "RL/Pasted image 20231211191419.png",
-    "RL/Pasted image 20231211191351.png",
-    "RL/Pasted image 20231211183547.png",
-    "RL/Pasted image 20231211180800.png",
-    "RL/Pasted image 20231211180245.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223945.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223746.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211222759.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211221555.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/1702306920057.png",
+    "RL/Pasted image 20231211223945.png",
+    "RL/Pasted image 20231211223746.png",
+    "RL/Pasted image 20231211222759.png",
+    "RL/Pasted image 20231211221555.png",
+    "RL/1702306920057.png",
+    "1702306920057.png",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle",
+    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.pdf",
     "README.md",
     "新建 文本文档.txt",
     "未命名.canvas",
