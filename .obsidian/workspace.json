@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6e94909ebe5431ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "talkings/Model Merging in Language Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "afc972b997ee1992",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "talkings/Model Merging in Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "talkings/Model Merging in Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md"
+                "file": "talkings/Model Merging in Language Models.md"
               }
             }
           }
@@ -159,10 +172,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "504f413f24fbd51d",
+  "active": "6e94909ebe5431ff",
   "lastOpenFiles": [
-    "RL/A-star/A-star algorithm.md",
+    "Pasted image 20231212142042.png",
+    "Pasted image 20231212141356.png",
+    "Pasted image 20231212141119.png",
+    "Pasted image 20231212140654.png",
+    "Pasted image 20231212140000.png",
+    "talkings/Model Merging in Language Models.pdf",
+    "Pasted image 20231212135732.png",
+    "Pasted image 20231212134917.png",
+    "Pasted image 20231212133946.png",
+    "Pasted image 20231212133643.png",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "talkings/Model Merging in Language Models.md",
+    "talkings",
+    "RL/A-star/A-star algorithm.md",
     "RL/A-star",
     "RL/A",
     "RL/新建文件夹",
@@ -171,20 +196,10 @@
     "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223945.png",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223746.png",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211222759.png",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211221555.png",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/1702306920057.png",
-    "RL/Pasted image 20231211223945.png",
-    "RL/Pasted image 20231211223746.png",
-    "RL/Pasted image 20231211222759.png",
-    "RL/Pasted image 20231211221555.png",
-    "RL/1702306920057.png",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.pdf",
     "README.md",
-    "新建 文本文档.txt",
     "未命名.canvas",
-    "2023-12-11.md",
-    "RL"
+    "2023-12-11.md"
   ]
 }
