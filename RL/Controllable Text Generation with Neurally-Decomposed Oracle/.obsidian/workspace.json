@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "79e07b49cb512e4b",
+    "id": "f0174c22fcd03e80",
     "type": "split",
     "children": [
       {
-        "id": "e22f300ea87dc980",
+        "id": "59c9905f36325e10",
         "type": "tabs",
         "children": [
           {
-            "id": "afc972b997ee1992",
+            "id": "05be402ccc9b603e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/A-star/A-star algorithm.md",
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "253dbe0032b4b5a5",
+    "id": "25f8352cbd33c204",
     "type": "split",
     "children": [
       {
-        "id": "3812a7b83473d77e",
+        "id": "6bc759164d720788",
         "type": "tabs",
         "children": [
           {
-            "id": "6169f06db7d862c5",
+            "id": "28bea0d6039728e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "b960dd9d56e668eb",
+            "id": "ba70861889c8b5c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "4df7c6fb86747b65",
+            "id": "408bc8a1c726fb3e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c8e7a2d2865e4e8f",
+    "id": "b60438b12b80b91f",
     "type": "split",
     "children": [
       {
-        "id": "90013096eda587fb",
+        "id": "ba2dac4a9753a0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e775a4bb84a9c5b9",
+            "id": "423fbf23afc8103a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/A-star/A-star algorithm.md",
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "a5c64203cedb1d7b",
+            "id": "545bc50515cd893c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/A-star/A-star algorithm.md",
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ab228e7d59fc50fa",
+            "id": "5d946f8af8f2c653",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "c12c6f760555921a",
+            "id": "4c09e55e53bc7da9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/A-star/A-star algorithm.md"
+                "file": "Controllable Text Generation with Neurally-Decomposed Oracle.md"
               }
             }
           }
@@ -146,35 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "afc972b997ee1992",
-  "lastOpenFiles": [
-    "RL/A-star/A-star algorithm.pdf",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
-    "RL/A-star/A-star algorithm.md",
-    "talkings/Model Merging in Language Models/Model Merging in Language Models.md",
-    "talkings/talking-list.md",
-    "talkings/Model Merging in Language Models/Model Merging in Language Models.pdf",
-    "talkings/Model Merging in Language Models",
-    "talkings/Model Merging in Language Models/Pasted image 20231212142042.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212141356.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212141119.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212140654.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212140000.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212135732.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212134917.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212133946.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212133643.png",
-    "talkings",
-    "RL/A-star",
-    "RL/A",
-    "RL/新建文件夹",
-    "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/2310.13227.pdf",
-    "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/未确认 852664.crdownload",
-    "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Pasted image 20231211223945.png",
-    "RL/Controllable Text Generation with Neurally-Decomposed Oracle",
-    "README.md",
-    "未命名.canvas",
-    "2023-12-11.md"
-  ]
+  "active": "05be402ccc9b603e",
+  "lastOpenFiles": []
 }

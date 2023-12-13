@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Typora-Vue",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "monospaceFontFamily": "",
+  "nativeMenus": false,
+  "textFontFamily": ""
 }
