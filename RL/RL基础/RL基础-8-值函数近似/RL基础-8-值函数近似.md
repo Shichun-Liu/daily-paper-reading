@@ -11,6 +11,17 @@ mindmap
 
 主要内容
 ![[Pasted image 20231216002802.png|400]]
+- [[#引言|引言]]
+- [[#state-value 的近似|state-value 的近似]]
+	- [[#引言#PE 阶段|PE 阶段]]
+	- [[#引言#优化方法|优化方法]]
+	- [[#引言#近似函数的选择|近似函数的选择]]
+- [[#action-value的近似|action-value的近似]]
+- [[#action-value的近似#sarsa 求action-value|sarsa 求action-value]]
+	- [[#sarsa 求action-value#Q-learning|Q-learning]]
+- [[#Deep Q-learning （DQN）|Deep Q-learning （DQN）]]
+	- [[#sarsa 求action-value#技巧一：两个网络|技巧一：两个网络]]
+	- [[#sarsa 求action-value#技巧二：经验回放|技巧二：经验回放]]
 
 ### 引言
 
@@ -99,7 +110,9 @@ experience replay
 - 但是也能将经验回放用在表格型Q-learning，（是一个off-policy的方式），提高经验的利用效率；
 - off-policy的版本
 ![[Pasted image 20231216114208.png|550]]
-采样，计算y_T，更新main network，更新w_T；
+采样，计算 $y_T$，更新main network，更新 $w_T$ ；
 - 注意，是off policy，所以没有更新policy；
 - 全计算完value，然后只更新一次policy就得到了最优的policy；
-- 
+相比起之前的求解贝尔曼公式的迭代，使用DQN的迭代次数大大减少；
+但是太少的迭代次数，可能求解出来的结果不是正确的（即使已经收敛了，error不一定收敛到0）；数据还是非常重要！
+

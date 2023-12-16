@@ -6,5 +6,7 @@
   "floating-toc",
   "number-headings-obsidian",
   "obsidian-enhancing-export",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-plugin-toc"
 ]

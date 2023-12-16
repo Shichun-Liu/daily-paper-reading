@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
+                "file": "RL/RL基础/RL基础-9-策略梯度方法/RL-9-策略梯度方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
+                "file": "RL/RL基础/RL基础-9-策略梯度方法/RL-9-策略梯度方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
+                "file": "RL/RL基础/RL基础-9-策略梯度方法/RL-9-策略梯度方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md"
+                "file": "RL/RL基础/RL基础-9-策略梯度方法/RL-9-策略梯度方法.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,6 +150,9 @@
   },
   "active": "6169f06db7d862c5",
   "lastOpenFiles": [
+    "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
+    "RL/RL基础/RL基础-9-策略梯度方法/RL-9-策略梯度方法.md",
+    "RL/RL基础/RL基础-9-策略梯度方法",
     "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.pdf",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",
@@ -160,7 +164,6 @@
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216104931.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216103956.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216103836.png",
-    "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
     "RL/RL基础/RL基础-8-值函数近似.md",
     "RL/RL基础/RL基础-8-值函数近似",
     "RL/RL基础/新建文件夹",
@@ -172,9 +175,7 @@
     "RL/RL基础",
     "README.md",
     "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/2310.13227.pdf",
-    "RL/MCTS_RL",
     "RL/A-star/A-star algorithm.md",
-    "RL/A-star/A-star algorithm.pdf",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "talkings/Model Merging in Language Models/Model Merging in Language Models.md",
     "talkings/talking-list.md",
