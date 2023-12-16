@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -150,10 +149,11 @@
   },
   "active": "5cb56db913ce29b4",
   "lastOpenFiles": [
+    "RL/RL基础/RL-10-Actor-Critic Method.pdf",
+    "RL/RL基础/RL基础-10-Actor-Critic Method.pdf",
+    "RL/RL基础/RL-10-Actor-Critic Method.md",
     "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
     "RL/RL基础/RL-9-策略梯度方法.md",
-    "RL/RL基础/RL-10-Actor-Critic Method.md",
-    "RL/RL基础/RL基础-10-Actor-Critic Method.pdf",
     "RL/RL基础/未命名",
     "RL/RL基础/RL-9-策略梯度方法.pdf",
     "RL/RL基础/RL基础-9-策略梯度方法",
