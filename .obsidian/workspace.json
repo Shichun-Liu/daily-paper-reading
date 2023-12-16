@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e22f300ea87dc980",
+        "id": "27021be1a3c29a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "afc972b997ee1992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RL/MCTS_RL/MCTS-RL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f04021581ea3facb",
+            "id": "104b836f612a88b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -159,12 +147,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6169f06db7d862c5",
+  "active": "104b836f612a88b4",
   "lastOpenFiles": [
-    "RL/MCTS_RL/MCTS-RL.md",
+    "RL/RL基础/RL基础.pdf",
+    "Pasted image 20231216101104.png",
+    "Pasted image 20231216100642.png",
+    "Pasted image 20231216002802.png",
+    "Pasted image 20231215231702.png",
     "RL/RL基础/RL基础.md",
+    "RL/Mathematical discoveries from program search with large language models.pdf",
+    "RL/MCTS_RL/MCTS-RL.md",
+    "RL/Mathematical discoveries from program search with large language models.pdf.crdownload",
+    "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础",
-    "Pasted image 20231213225025.png",
     "README.md",
     "RL/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/2310.13227.pdf",
     "RL/MCTS_RL",
@@ -180,14 +175,8 @@
     "talkings/Model Merging in Language Models/Pasted image 20231212141119.png",
     "talkings/Model Merging in Language Models/Pasted image 20231212140654.png",
     "talkings/Model Merging in Language Models/Pasted image 20231212140000.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212135732.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212134917.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212133946.png",
-    "talkings/Model Merging in Language Models/Pasted image 20231212133643.png",
     "talkings",
     "RL/A-star",
-    "RL/A",
-    "RL/新建文件夹",
     "未命名.canvas",
     "2023-12-11.md"
   ]
