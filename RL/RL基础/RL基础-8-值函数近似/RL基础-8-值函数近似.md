@@ -99,17 +99,23 @@ Loss function：
 ![[Pasted image 20231216112446.png|500]]
 
 实现细节
+
 ![[Pasted image 20231216112953.png|500]]
+
 #### 技巧二：经验回放
 experience replay
 - 使用数据的顺序和采集的顺序并不一致；
 - 采集数据，存起来，得到的集合为replay buffer；拿训练数据时从中均匀分布采样（打散不同sample之间的相关性）；
+
 ![[Pasted image 20231216113158.png|500]]
+
 为什么要均匀分布？
 （S，A）的分布在q hat求解的时候是需要的，但是之前表格型方法是在求解贝尔曼最优方程
 - 但是也能将经验回放用在表格型Q-learning，（是一个off-policy的方式），提高经验的利用效率；
 - off-policy的版本
+
 ![[Pasted image 20231216114208.png|550]]
+
 采样，计算 $y_T$，更新main network，更新 $w_T$ ；
 - 注意，是off policy，所以没有更新policy；
 - 全计算完value，然后只更新一次policy就得到了最优的policy；

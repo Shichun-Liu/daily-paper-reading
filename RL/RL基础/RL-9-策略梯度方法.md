@@ -77,7 +77,8 @@
 ![image.png|475](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231216151158.png)
 
 ## Gradients of the metrics 
-- 这些metrics的梯度计算是整个方法中最复杂的部分！
+- 这些metrics的梯度
+- 计算是整个方法中最复杂的部分！ 
 统一表示
 
 ![image.png|500](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231216162257.png)
@@ -92,7 +93,7 @@
 可以用随机梯度下降代替expectation；
 
 #### 重要性质
-- $\pi(a|s, \theta) > 0$，使用softmax函数来保证；同时满足了归一化条件；
+- $\pi(a|s, \theta) > 0$，使用softmax函数来保证；同时满足了归一化条件；同时，保证了一定的exploration；不需要再使用 $\epsilon$-greedy 的策略；
 
 ![image.png|475](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231216163014.png)
 
