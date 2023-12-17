@@ -1,3 +1,8 @@
+> [!abstract]
+> 比较了模仿学习、binary discrimination、ranked preference modeling；
+> 提出 LM Pre-training → Preference Model Pre-training(PMP) → Preference Model fine-tune 的流程；
+> 提出上下文蒸馏；
+
 - 对齐领域的早期工作；2021-12-09；
 - 还不是日后的 RLHF / RLAIF。
 - 适度干预的好处与模型规模正相关；
@@ -7,7 +12,7 @@
 
 ## 主要内容
 
-![image.png|550](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217164211.png)
+![image.png|625](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217164211.png)
 
 ![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217174322.png)
 
@@ -29,13 +34,17 @@
 
 ### 上下文蒸馏
 - 何种对齐方式是最有效的？prompting / fine-tuning如何对齐；prompt提供了先验，fine-tune改变了数据分布；
-- 上下文蒸馏：结合了两种方法；流程如下图；
+- 上下文蒸馏：结合了两种方法；
+	- 可以认为是通过prompt来过滤了一部分数据；
+	- 比如我想要专注于helpful的数据，那么我就把这个要求输入到prompt中，结合原始dataset让LM生成得到helpful数据集；然后再将另一个LM在这个helpful数据集上面进行fine-tune（相当于蒸馏）；
 
 ![image.png|500](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217170707.png)
 
 - 从专家示例中模仿学习；将专家的action作为当前state的label来进行监督学习；
 	- [lamda.nju.edu.cn/xut/docs/Imitation\_Learning.pdf](https://www.lamda.nju.edu.cn/xut/docs/Imitation_Learning.pdf)
-- 更高效地利用珍贵的人类偏好数据：**用来微调偏好模型**；偏好模型就是一个打分模型；
+### 偏好模型
+- 偏好模型就是一个打分模型；
+- 更高效地利用珍贵的人类偏好数据：**用来微调偏好模型**，以泛化到更多的情况；后续实验验证了偏好模型的人类偏好的一致性较高；
 
 Binary vs Rank-Ordered Preferences
 

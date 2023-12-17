@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
+                "file": "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
+                "file": "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
+                "file": "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md"
+                "file": "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md"
               }
             }
           }
@@ -150,15 +149,17 @@
   },
   "active": "779580b8dd4533af",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
+    "RL/RLHF/RLHF.md",
     "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
+    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.pdf",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
-    "未命名.md",
+    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.pdf",
     "RL/RL.md",
+    "未命名.md",
+    "新建 文本文档.txt",
     "README.md",
     "模仿学习简洁教程 - NJU.md",
     "2023-12-17.md",
-    "RL/RLHF/RLHF.md",
     "RL/RL基础/DDPG.md",
     "RL/RLHF",
     "RL/RL基础/RL-10-Actor-Critic Method.md",
@@ -182,9 +183,6 @@
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216103956.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216103836.png",
     "RL/RL基础/RL基础-8-值函数近似.md",
-    "RL/RL基础/RL基础-8-值函数近似",
-    "RL/RL基础/新建文件夹",
-    "RL/RL基础/RL基础-8-值函数近似.pdf",
     "RL/MCTS_RL/MCTS-RL.md",
     "RL/A-star/A-star algorithm.md",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
