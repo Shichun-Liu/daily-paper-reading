@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2725e114081d35a8",
+        "id": "11da807ac792ac0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb56db913ce29b4",
+            "id": "779580b8dd4533af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RL基础/DDPG.md",
+                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RL基础/DDPG.md",
+                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RL基础/DDPG.md",
+                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RL基础/DDPG.md"
+                "file": "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md"
               }
             }
           }
@@ -143,15 +143,24 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cb56db913ce29b4",
+  "active": "779580b8dd4533af",
   "lastOpenFiles": [
-    "RL/RL基础/RL-10-Actor-Critic Method.md",
+    "未命名.md",
+    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
+    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
+    "RL/RL.md",
+    "README.md",
+    "模仿学习简洁教程 - NJU.md",
+    "2023-12-17.md",
+    "RL/RLHF/RLHF.md",
     "RL/RL基础/DDPG.md",
+    "RL/RLHF",
+    "RL/RL基础/RL-10-Actor-Critic Method.md",
     "RL/RL基础/RL-9-策略梯度方法.md",
     "RL/RL基础/RL基础笔记.md",
     "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
@@ -175,9 +184,7 @@
     "RL/RL基础/RL基础-8-值函数近似",
     "RL/RL基础/新建文件夹",
     "RL/RL基础/RL基础-8-值函数近似.pdf",
-    "RL/RL基础/RL基础.pdf",
     "RL/MCTS_RL/MCTS-RL.md",
-    "README.md",
     "RL/A-star/A-star algorithm.md",
     "RL/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "talkings/Model Merging in Language Models/Model Merging in Language Models.md",
