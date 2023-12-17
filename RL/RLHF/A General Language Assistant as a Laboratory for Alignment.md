@@ -1,14 +1,15 @@
 - 对齐领域的早期工作；2021-12-09；
 - 还不是日后的 RLHF / RLAIF。
 - 适度干预的好处与模型规模正相关；
-- 主要讨论了 AI 对齐中的模仿学习、binary discrimination（就是好/坏两极偏好）、ranked preference modeling（相对排序型）。
-- 发现 ranked preference modeling 显著优于模仿学习，二元判别通常表现和缩放与模仿学习非常相似。
-- 提出：LM Pre-training→Preference Model Pre-training(PMP)→"在人类标注了偏好的数据上 fine-tune" 的流程。
-
+- 讨论了模仿学习、binary discrimination、ranked preference modeling。
+- 发现 ranked preference modeling 显著优于模仿学习，二元判别通常表现和缩放与模仿学习非常相似。在偏好模型的建模上使用二元判别效果较好；
+- 提出 LM Pre-training → Preference Model Pre-training(PMP)→Preference Model fine-tune 的流程。
 
 ## 主要内容
 
 ![image.png|550](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217164211.png)
+
+![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217174322.png)
 
 ### 含义
 - 定义：两个智能体的对于输出结果的排序**重叠程度**（overlap between the way two agents rank different outcomes）； 
@@ -39,6 +40,7 @@
 Binary vs Rank-Ordered Preferences
 
 ![image.png|425](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217161521.png)
+
 设定：两种数据，二元标签（好坏/true false），偏好排序，在偏好建模和模仿学习两种算法上的性能表现；
 结论：Ranked Preference Modeling performs **much better** and scales somewhat better than imitation learning, but that binary discrimination does not.
 
