@@ -11,8 +11,12 @@
             "id": "2e10221c586105af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RL/Q-star/MCTS-RL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RL/Q-star/MCTS-RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RL/Q-star/MCTS-RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RL/Q-star/MCTS-RL.md"
+              }
             }
           }
         ],
@@ -141,17 +150,19 @@
   },
   "active": "2e10221c586105af",
   "lastOpenFiles": [
+    "RL/Q-star/MCTS-RL.pdf",
+    "RL/Q-star/MCTS-RL.md",
+    "RL/Q-star/Q-star.md",
+    "RL/RL基础/RL基础.md",
+    "RL/RL基础/RL基础-8-值函数近似/RL-8-值函数近似.md",
     "README.md",
     "RL/RL.md",
-    "RL/Q-star/MCTS-RL.md",
     "Pasted image 20231213225025.png.md",
-    "RL/Q-star/Q-star.md",
     "RL/Q-star/math",
     "未命名",
     "RL/Q-star/A-star algorithm.md",
     "RL/Q-star/math/Mathematical discoveries from program search with large language models.pdf",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search.md",
-    "RL/RL基础/RL基础.md",
     "RL/RL基础/RL-9-策略梯度方法.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/Q-star/A-star algorithm.pdf",
@@ -169,7 +180,6 @@
     "RL/RL基础/DDPG.md",
     "RL/RL基础/RL-10-Actor-Critic Method.md",
     "RL/RL基础/RL-9-策略梯度方法.md",
-    "RL/RL基础/RL基础-8-值函数近似/RL基础-8-值函数近似.md",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111015.png",
