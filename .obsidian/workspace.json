@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ddcddfdc96e830bb",
+        "id": "ca71bb799f55cf4a",
         "type": "tabs",
         "children": [
           {
-            "id": "2e10221c586105af",
+            "id": "b2cd65e244044cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
+                "file": "talkings/多模态大模型-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
+                "file": "talkings/多模态大模型-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
+                "file": "talkings/多模态大模型-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md"
+                "file": "talkings/多模态大模型-2.md"
               }
             }
           }
@@ -147,20 +149,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e10221c586105af",
+  "active": "b2cd65e244044cf0",
   "lastOpenFiles": [
+    "talkings/多模态大模型-2.pdf",
+    "RL/RLHF/Training language models to follow instructions with human feedback.md",
     "RL/RLHF/RLHF.md",
+    "talkings/多模态大模型-2.md",
+    "talkings/talking-list.md",
+    "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
+    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/RL.md",
     "RL/Q-star/MCTS-RL.md",
     "RL/RL基础/RL基础.md",
-    "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
     "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
     "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.pdf",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.pdf",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
     "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.pdf",
     "README.md",
-    "talkings/talking-list.md",
     "RL/Q-star/Q-star.md",
     "RL/Q-star/MCTS-RL.pdf",
     "RL/RL基础/RL基础-8-值函数近似/RL-8-值函数近似.md",
@@ -169,7 +175,6 @@
     "未命名",
     "RL/Q-star/A-star algorithm.md",
     "RL/Q-star/math/Mathematical discoveries from program search with large language models.pdf",
-    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/RL基础/RL-9-策略梯度方法.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/Q-star/A-star algorithm.pdf",
@@ -192,7 +197,6 @@
     "RL/RL基础/RL基础-8-值函数近似.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "talkings/Model Merging in Language Models/Model Merging in Language Models.md",
-    "未命名.canvas",
-    "2023-12-11.md"
+    "未命名.canvas"
   ]
 }
