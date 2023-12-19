@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/MCTS-RL.md",
+                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/MCTS-RL.md",
+                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/MCTS-RL.md",
+                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/MCTS-RL.md"
+                "file": "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md"
               }
             }
           }
@@ -150,13 +149,21 @@
   },
   "active": "2e10221c586105af",
   "lastOpenFiles": [
-    "RL/Q-star/MCTS-RL.pdf",
-    "RL/Q-star/MCTS-RL.md",
-    "RL/Q-star/Q-star.md",
-    "RL/RL基础/RL基础.md",
-    "RL/RL基础/RL基础-8-值函数近似/RL-8-值函数近似.md",
-    "README.md",
+    "RL/RLHF/RLHF.md",
     "RL/RL.md",
+    "RL/Q-star/MCTS-RL.md",
+    "RL/RL基础/RL基础.md",
+    "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
+    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
+    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.pdf",
+    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.pdf",
+    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
+    "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.pdf",
+    "README.md",
+    "talkings/talking-list.md",
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/MCTS-RL.pdf",
+    "RL/RL基础/RL基础-8-值函数近似/RL-8-值函数近似.md",
     "Pasted image 20231213225025.png.md",
     "RL/Q-star/math",
     "未命名",
@@ -167,14 +174,7 @@
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/Q-star/A-star algorithm.pdf",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/2310.13227.pdf",
-    "RL/Q-star",
-    "RL/RLHF/RLHF.md",
-    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
-    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.pdf",
-    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
-    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.pdf",
     "未命名.md",
-    "新建 文本文档.txt",
     "模仿学习简洁教程 - NJU.md",
     "2023-12-17.md",
     "RL/RL基础/DDPG.md",
@@ -192,7 +192,6 @@
     "RL/RL基础/RL基础-8-值函数近似.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "talkings/Model Merging in Language Models/Model Merging in Language Models.md",
-    "talkings/talking-list.md",
     "未命名.canvas",
     "2023-12-11.md"
   ]

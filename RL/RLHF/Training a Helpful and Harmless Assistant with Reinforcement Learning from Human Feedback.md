@@ -19,7 +19,7 @@
 
 ## 主要内容
 **流程图**
-![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217173053.png)
+![image.png|625](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217173053.png)
 
 ### 整体流程
 以预训练模型为起点（PLM），往右根据互联网的**对比数据**进行预训练，得到预训练偏好模型（PMP），然后再在人类返回的比较数据集上微调，得到偏好模型（PM）；再以PLM为起点，往下根据提示数据，将520亿参数的模型结果蒸馏给更小的模型（会独立训练多个不同参数量的模型，从1300万到520亿），这个模型会作为强化学习的初始策略模型，然后以PM模型作为奖励模型，基于PPO的方法进行强化学习训练；根据得到的强化学习策略模型，生成新的**对比数据**，人工标注后重新训练PM模型，然后再重新训练强化学习模型，如此迭代。

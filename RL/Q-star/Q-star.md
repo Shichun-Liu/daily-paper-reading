@@ -2,6 +2,8 @@
 ## concept
 - [[A-star algorithm]]
 - [[MCTS-RL]]
+	- AlphaZero
+	- MuZero
 
 ## paper list
 - [[Controllable Text Generation with Neurally-Decomposed Oracle]]

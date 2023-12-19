@@ -10,6 +10,9 @@
 	- 通过收集人类的偏好数据并应用偏好建模（PM）和从人类反馈中强化学习（RLHF）的技术来训练一个相对有帮助和无害（HH）的Agent； 
 	-  可以将对齐任务和特定的nlp任务混合起来训练，能够不影响对齐效果也不影响任务性能。
 	- online学习，持续迭代；
+- [[Constitutional AI-Harmlessness from AI Feedback]]
+	- 宪法AI；
+	- 
 
 ## Alignment
 
@@ -23,6 +26,22 @@
 - **Scaling Laws for Reward Model Overoptimization**, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2210.10760)
 - Scalable Oversight: **Measuring Progress on Scalable Oversight for Large Language Models**, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2211.03540.pdf)
 
+Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
+
+A General Language Assistant as a Laboratory for Alignment
+
+Constitutional AI: Harmlessness from AI Feedback
+
+Training language models to follow instructions with human feedback
+
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+
+Specific versus General Principles for Constitutional AI
+
+Failure Modes of Learning Reward Models for LLMs and other Sequence Models
+
+
+Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
 ### harmless
 
 - **Red Teaming Language Models with Language Models**, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2202.03286)
