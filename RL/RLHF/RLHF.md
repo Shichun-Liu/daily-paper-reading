@@ -12,7 +12,7 @@
 	- 通过收集人类的偏好数据并应用偏好建模（PM）和从人类反馈中强化学习（RLHF）的技术来训练一个相对有帮助和无害（HH）的Agent； 
 	-  可以将对齐任务和特定的nlp任务混合起来训练，能够不影响对齐效果也不影响任务性能。
 	- online学习，持续迭代；
-- [[Training language models to follow instructions with human feedback]]
+- [[Training language models to follow instructions with human feedback(InstructGPT)]]
 	- 2022-03-10, OpenAI 
 	- #InstructGPT
 	- 

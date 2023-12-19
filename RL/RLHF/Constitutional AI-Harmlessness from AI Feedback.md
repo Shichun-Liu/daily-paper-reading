@@ -1,6 +1,10 @@
+---
+tags:
+  - Anthropic
+date: 2022-12-15
+---
 [RLHF系列-Constitutional AI[year 2023 OpenAI] - 知乎](https://zhuanlan.zhihu.com/p/604926128)
-- 2022.12.15
-- Claude
+
 > [!abstract]
 > 
 核心：提出RLAIF，尽量减少人类提供反馈数据，人类输入宪法（一套规则），让另一个模型对其中的harmful内容进行检测并反馈，从而构造比较数据对训练PM进行RL。 

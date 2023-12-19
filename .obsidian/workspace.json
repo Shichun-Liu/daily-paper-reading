@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "talkings/多模态大模型-2.md",
+                "file": "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "talkings/多模态大模型-2.md",
+                "file": "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "talkings/多模态大模型-2.md",
+                "file": "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "talkings/多模态大模型-2.md"
+                "file": "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md"
               }
             }
           }
@@ -151,20 +149,21 @@
   },
   "active": "b2cd65e244044cf0",
   "lastOpenFiles": [
-    "talkings/多模态大模型-2.pdf",
-    "RL/RLHF/Training language models to follow instructions with human feedback.md",
+    "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).pdf",
+    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
     "RL/RLHF/RLHF.md",
-    "talkings/多模态大模型-2.md",
-    "talkings/talking-list.md",
+    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
     "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
+    "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
+    "talkings/多模态大模型-2.md",
+    "talkings/多模态大模型-2.pdf",
+    "talkings/talking-list.md",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/RL.md",
     "RL/Q-star/MCTS-RL.md",
     "RL/RL基础/RL基础.md",
-    "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
     "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.pdf",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.pdf",
-    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
     "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.pdf",
     "README.md",
     "RL/Q-star/Q-star.md",
@@ -178,7 +177,6 @@
     "RL/RL基础/RL-9-策略梯度方法.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/Q-star/A-star algorithm.pdf",
-    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/2310.13227.pdf",
     "未命名.md",
     "模仿学习简洁教程 - NJU.md",
     "2023-12-17.md",

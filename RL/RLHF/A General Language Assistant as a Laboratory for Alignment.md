@@ -1,3 +1,9 @@
+---
+tags:
+  - Anthropic
+  - 上下文蒸馏
+date: 2022-12-09
+---
 > [!abstract]
 > 比较了模仿学习、binary discrimination、ranked preference modeling；
 > 提出 LM Pre-training → Preference Model Pre-training(PMP) → Preference Model fine-tune 的流程；
