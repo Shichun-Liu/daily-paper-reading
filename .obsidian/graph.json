@@ -8,23 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:RL/RLHF  ",
+      "color": {
+        "a": 1,
+        "rgb": 11227866
+      }
+    },
+    {
+      "query": "path:talkings  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:RL/Q-star  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048354
+      }
+    },
+    {
+      "query": "path:RL/RL基础  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 6084269
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.17664359861592,
+  "nodeSizeMultiplier": 1.68529411764706,
+  "lineSizeMultiplier": 2.10916955017301,
   "collapse-forces": false,
   "centerStrength": 0.565743944636678,
   "repelStrength": 13.3217993079585,
   "linkStrength": 0.541522491349481,
   "linkDistance": 197,
   "scale": 0.6346285676930592,
-  "close": true
+  "close": false
 }

@@ -16,6 +16,8 @@ date: 2022-12-09
 - 发现 ranked preference modeling 显著优于模仿学习，二元判别通常表现和缩放与模仿学习非常相似。在偏好模型的建模上使用二元判别效果较好；
 - 提出 LM Pre-training → Preference Model Pre-training(PMP)→Preference Model fine-tune 的流程。
 
+[mp.weixin.qq.com/s/PpYa7ibXSP6CLghi4SmBMA](https://mp.weixin.qq.com/s/PpYa7ibXSP6CLghi4SmBMA)
+
 ## 主要内容
 
 ![image.png|625](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231217164211.png)
