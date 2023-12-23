@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+                "file": "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md"
+                "file": "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md"
               }
             }
           }
@@ -148,19 +148,24 @@
   },
   "active": "b2cd65e244044cf0",
   "lastOpenFiles": [
+    "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
+    "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
+    "RL/RL基础/RL-10-Actor-Critic Method.md",
+    "RL/RL基础/RL-10-Actor-Critic Method.pdf",
+    "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
+    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
+    "RL/RLHF/RLHF.md",
+    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/RL.md",
     "RL/随想.md",
     "RL/weak-to-strong/weak-to-strong.md",
     "RL/RL基础/RL基础.md",
     "RL/Q-star/Q-star.md",
-    "RL/RLHF/RLHF.md",
-    "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
     "RL/Q-star/MCTS-RL.md",
     "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/RLHF/Reinforcement Learning Upside Down-Don't Predict Rewards -- Just Map Them to Actions.md",
-    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
     "RL/RLHF/Human-Centered Loss Functions (HALOs).pdf",
     "RL/RLHF/A note on DPO with noisy preferences & relationship to IPO.pdf",
     "RL/RLHF/A note on DPO with noisy preferences & relationship to IPO.pdf.crdownload",
@@ -168,9 +173,7 @@
     "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
     "RL/RLHF/Policy Optimization in RLHF-The Impact of Out-of-preference Data.md",
     "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
-    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/weak-to-strong",
-    "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
     "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).pdf",
     "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.md",
     "talkings/多模态大模型-2.md",
@@ -179,11 +182,8 @@
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/RLHF/Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.pdf",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.pdf",
-    "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.pdf",
     "README.md",
     "RL/RL基础/RL基础-8-值函数近似/RL-8-值函数近似.md",
-    "Pasted image 20231213225025.png.md",
-    "RL/Q-star/A-star algorithm.md",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",

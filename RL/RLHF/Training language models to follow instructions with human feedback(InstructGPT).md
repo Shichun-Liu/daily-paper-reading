@@ -41,6 +41,10 @@ date: 2022-03-10
 ![image.png|650](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231219160844.png)
 
 其中，RM和策略模型是不断迭代更新的（on-policy）。
+### 优化目标
+
+![image.png|550](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231223154158.png)
+
 ### 数据与训练
 #### 1. SFT
 **数据**

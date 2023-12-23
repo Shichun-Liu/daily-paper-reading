@@ -4,7 +4,7 @@
 	- 2021-12-09， #Anthropic
 	- 比较了模仿学习、binary discrimination、ranked preference modeling；
 	- 提出 LM Pre-training → Preference Model Pre-training(PMP) → Preference Model fine-tune 流程；
-	- 提出 #上下文蒸馏 
+	- 提出 #上下文蒸馏 ， #偏好学习 
 - [[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback]]；
 	- 2022-04-12， #Anthropic
 	- 通过收集人类的偏好数据并应用偏好建模（PM）和从人类反馈中强化学习（RLHF）的技术来训练一个相对有帮助和无害（HH）的Agent； 
