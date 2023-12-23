@@ -57,5 +57,13 @@ $$
 ### DPO 目标
 根据优化目标函数（3）式，对于给定的ref-model以及确定的RM，最优策略 $\pi$ 的解析解为
 $$
-\pi_{r}(y,x)=\frac{1}{Z(x)}\pi_{\text{ref}} \exp(\frac{1}{2})
+\pi_{r}(y,x)=\frac{1}{Z(x)}\pi_{\text{ref}}(y|x) \exp\left( \frac{1}{\beta}r(x,y) \right)
 $$
+其中，配分函数 $Z(x)$ 表达式为
+$$
+Z(x)=\sum_y \pi_{\text{ref}}(y|x) \exp\left( \frac{1}{\beta}r(x,y) \right)
+$$
+（推导过程在附录A1，大概思路是从3出发，展开DL散度表达式，改为min问题并把beta提取到r那一项，最后引入配分函数提取出y无关项，得到以下的关键步骤）（也有可能想到配分函数更关键）
+
+![image.png|600](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231223171852.png)
+
