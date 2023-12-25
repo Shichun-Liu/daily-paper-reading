@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/math/FunSearch.md",
+                "file": "RL/Q-star/Q-star.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d8490484985c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/math/FunSearch.md",
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/math/FunSearch.md",
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/math/FunSearch.md"
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md"
               }
             }
           }
@@ -146,43 +160,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b2cd65e244044cf0",
+  "active": "45d8490484985c9c",
   "lastOpenFiles": [
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "RL/RLHF/RLHF.md",
+    "RL/Q-star/MCTS-RL.md",
+    "RL/Q-star/math/FunSearch.md",
+    "RL/Q-star/math/FunSearch.pdf",
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf",
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf.crdownload",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
-    "RL/Q-star/MCTS-RL.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/Q-star/A-star algorithm.md",
-    "RL/Q-star/math/FunSearch.md",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf.crdownload",
     "RL/Q-star/math/d551875fc33e4f04aee2e517517cb0b0/5982f02ffd9f44408a2e0e299b95f623.pdf",
     "RL/Q-star/math/d551875fc33e4f04aee2e517517cb0b0",
-    "RL/Q-star/math/FunSearch.pdf",
     "LLM-basic/LLM-basic.md",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
     "LLM-basic/Emergent Abilities of Large Language Models.pdf",
     "RL/Q-star/math/Mathematical discoveries from program search with large language models.pdf",
     "README.md",
-    "RL/RLHF/RLHF.md",
     "LLM-basic",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Policy Optimization in RLHF-The Impact of Out-of-preference Data.md",
     "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
-    "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).pdf",
     "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
     "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
     "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
     "RL/RL基础/RL-10-Actor-Critic Method.md",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
-    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/RL.md",
     "RL/随想.md",
     "RL/weak-to-strong/weak-to-strong.md",
     "RL/RL基础/RL基础.md",
-    "RL/Q-star/Q-star.md",
     "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
