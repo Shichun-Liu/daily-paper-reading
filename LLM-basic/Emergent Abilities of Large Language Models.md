@@ -28,3 +28,31 @@ date: 2022-08-01
 
 ![image.png|700](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231225145304.png)
 
+## Augmented Prompting
+由策略带来的涌现能力；在规模超过阈值之后策略发挥巨大作用；
+If a technique shows no improvement or is harmful when compared to the baseline of not using the technique until applied to a model of a large-enough scale, we also consider the technique an emergent ability.
+
+
+![image.png|700](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231225150608.png)
+
+## 讨论
+对涌现能力的研究旨在探究一个问题：**继续扩大模型规模，是否还能够赋予模型新的能力**。
+
+### 潜在解释
+- 目前对于涌现能力的成因尚无定论；
+- 有一些直观的解释：对于推理任务而言，推理步骤必须要求模型具备足够多的深度；更多的参数和训练量可以记住更多的知识；
+- 需要重新设计对于能力的**评估指标**：不能只使用精确的字符串匹配，数学推理任务的最终结果；不合适的指标设计掩盖了模型在改进的事实，从而造成了一种涌现的假象（改善是连续的，这从交叉熵损失的连续下降上可以看出来；但是表现到指标上是突变的）。
+
+### beyond scaling 
+- 模型能力的获得不只有scaling一种方式：新架构的模型、更高质量的数据集、改进的训练方式都有可能解锁新能力；
+- 计算语言学：Computational linguistics work has further shown how **threshold frequencies** of training data can activate emergent syntactic rule-learning when model parameters and training FLOPs are held constant (Wei et al., 2021b), which has even been shown to have **striking “aha” moments** similar to those in the psycholinguistics literature (Abend et al., 2017; Zhang et al., 2021). 
+- scaling受到硬件水平的限制，且优化不具有方向性，不保证效果。
+- 特定能力可能与模型在特定语料上的困惑度相关；
+- 不安全性（bias，toxic）也是模型在scaling中需要考虑的因素；
+
+## 未来工作
+- 进一步的model scaling；
+- 改进模型架构、数据质量；
+- data scaling； 
+- 更好的prompt技巧；
+- 可解释性；
