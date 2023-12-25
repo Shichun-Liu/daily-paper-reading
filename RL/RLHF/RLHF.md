@@ -24,7 +24,7 @@
 	- RLHF和DPO的差异本质就是理解强化学习的value estimation和reward的差异。DPO就相当于直接用reward做对策略做正相关优化，而且还是*贪心优化* 。而RL的value estimation则是expected future rewards，相当于*动态规划* 的backup table值而不是贪心值，RL难其实就是没拟合好value estimation，用欠佳的监督对策略做正相关优化。
 - [[Policy Optimization in RLHF-The Impact of Out-of-preference Data]]
 	- 
-
+- 
 TODO
 
 ## 原理
