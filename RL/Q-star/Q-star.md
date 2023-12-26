@@ -1,4 +1,4 @@
-之前的调研（粗糙且混乱）：[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://chipped-icicle-2f0.notion.site/Q-3fa70d44521e4666a565d2c1382d7f59?pvs=4)
++之前的调研（粗糙且混乱）：[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://chipped-icicle-2f0.notion.site/Q-3fa70d44521e4666a565d2c1382d7f59?pvs=4)
 ## concept
 - [[A-star algorithm]]
 - [[MCTS-RL]]
@@ -16,6 +16,9 @@
 	- 决策
 - [x] Mathematical discoveries from program search with large language models
 	- [[FunSearch]] 
+	- 并不是完成**推理**任务；而是在一个组合问题上找到了一个高维的新算法；
+	- 有一个简洁的评估器，把求解数学问题转化为生成相应的求解算法；
+	- LLM+进化算法，通过迭代更新一个代码库；
 - [[Pre-Trained Language Models for Interactive Decision-Making]]
 - [[Alphazero-like Tree-Search can guide large language model decoding and training]]
 - [[Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding]]

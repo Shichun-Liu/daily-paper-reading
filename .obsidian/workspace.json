@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md"
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md"
               }
             }
           }
@@ -163,9 +162,10 @@
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
     "RL/Q-star/Q-star.md",
+    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+    "RL/RLHF/RLHF.md",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
-    "RL/RLHF/RLHF.md",
     "RL/Q-star/MCTS-RL.md",
     "RL/Q-star/math/FunSearch.md",
     "RL/Q-star/math/FunSearch.pdf",
@@ -173,7 +173,6 @@
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf.crdownload",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
-    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/Q-star/A-star algorithm.md",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf.crdownload",
