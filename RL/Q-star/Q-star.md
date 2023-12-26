@@ -13,13 +13,18 @@
 	- #A-star 
 	- 
 - [x] [[Evaluating and Mitigating Discrimination in Language Model Decisions]]
-	- 决策
+	- #harmless #Anthropic 
+	- 
 - [x] Mathematical discoveries from program search with large language models
 	- [[FunSearch]] 
 	- 并不是完成**推理**任务；而是在一个组合问题上找到了一个高维的新算法；
 	- 有一个简洁的评估器，把求解数学问题转化为生成相应的求解算法；
 	- LLM+进化算法，通过迭代更新一个代码库；
-- [[Pre-Trained Language Models for Interactive Decision-Making]]
+- [x] Pre-Trained Language Models for Interactive Decision-Making
+	- [[Pre-Trained Language Models for Interactive Decision-Making]]  
+	- **具身场景任务**；
+	- 把goal，observation，history进行表示为自然语言序列，通过PLM来预测next action；
+	- 有SL部分也有主动数据收集的部分（经验回放，重新标注）
 - [[Alphazero-like Tree-Search can guide large language model decoding and training]]
 - [[Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding]]
 - 

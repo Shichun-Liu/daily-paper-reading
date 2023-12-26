@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Q-star.md",
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "talkings/PixelDance：高动态性视频生成.md",
+                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "talkings/PixelDance：高动态性视频生成.md",
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "talkings/PixelDance：高动态性视频生成.md",
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "talkings/PixelDance：高动态性视频生成.md"
+                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md"
               }
             }
           }
@@ -159,16 +158,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45d8490484985c9c",
+  "active": "b2cd65e244044cf0",
   "lastOpenFiles": [
+    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
+    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+    "RL/RLHF/RLHF.md",
+    "talkings/PixelDance：高动态性视频生成.md",
     "talkings/PixelDance：高动态性视频生成.pdf",
     "talkings/多模态大模型-2.md",
     "talkings/talking-list.md",
-    "talkings/PixelDance：高动态性视频生成.md",
-    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
-    "RL/Q-star/Q-star.md",
-    "RL/RLHF/RLHF.md",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Q-star/MCTS-RL.md",
@@ -177,7 +178,6 @@
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf",
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf.crdownload",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
-    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/A-star algorithm.md",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf.crdownload",
@@ -188,7 +188,6 @@
     "LLM-basic/Emergent Abilities of Large Language Models.pdf",
     "RL/Q-star/math/Mathematical discoveries from program search with large language models.pdf",
     "README.md",
-    "LLM-basic",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Policy Optimization in RLHF-The Impact of Out-of-preference Data.md",
     "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",

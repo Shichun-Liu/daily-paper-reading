@@ -11,6 +11,7 @@ date: 2022-10-29
 - 迭代过程：agent与env交互收集数据，标记失败经验，在自我监督中更新其policy；
 - 连续输入表示，基于LM-based 权重初始化对于结果影响较大；策略输入编码的形式（自然语言字符串/随机序列编码）对于结果几乎没有影响；
 - 语言建模诱导的representation对于目标和计划的建模同样有效（探讨LM是如何进行决策的？）；这些表征可以在语言处理之外的地方用来学习和泛化。
+- 任务：**具身场景**；
 
 ## 引言
 
@@ -35,3 +36,21 @@ Decision-Making**）的框架。如图 1（右图）所示，我们将输入（�
 	- Finally, we perform several analyses to explain the generalization capabilities of pre-trained LMs, finding that natural strings are not needed to benefit from LM pre-training, but the sequential input encoding and weight pre-training are important.
 
  
+**优化目标**
+
+![image.png|650](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231226153139.png)
+
+- 使用GPT-2作为LM；
+- 任务：babyAI和VirtualHome；
+- **Environment encodings in VirtualHome**. VirtualHome 中，每个目标都由一系列谓词和多重性组成，并被翻译成**模板化的英语句子**（例如，“Inside(apple,冰箱):2”变成“将两个苹果放入冰箱”）；为了对代理的observation进行编码，我们提取了当前可见物体的列表、它们的状态（例如 "打开、干净"）以及三维世界坐标。我们使用全连接层对三维信息进行编码，并生成观察中每个物体的特征表示。为了对历史进行编码，我们存储了所有先前操作的信息，并将其转换为模板化的英语句子（例如 "我把盘子放在了厨房的桌子上，把苹果放在了冰箱里"）。
+- **Action prediction.** We pool LM outputs into a “**context representation**” that is used to predict the next action. In training, we maximize the probabilities of demonstrated actions. In inference, we select the valid action with the highest probability.
+
+### 训练
+- 在专家轨迹上微调； 
+- 主动探索
+
+![image.png|625](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231226160943.png)
+
+![image.png|625](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20231226161125.png)
+
+类似RL思想，但是优于RL方法的效果；中间relabel的阶段相当于人为引入了过程监督信号；
