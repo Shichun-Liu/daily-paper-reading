@@ -1,9 +1,11 @@
-+之前的调研（粗糙且混乱）：[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://chipped-icicle-2f0.notion.site/Q-3fa70d44521e4666a565d2c1382d7f59?pvs=4)
+之前的调研（粗糙且混乱）：[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://chipped-icicle-2f0.notion.site/Q-3fa70d44521e4666a565d2c1382d7f59?pvs=4)
 ## concept
 - [[A-star algorithm]]
 - [[MCTS-RL]]
 	- AlphaZero
 	- MuZero
+- [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
+- 
 
 ## paper list
 - [x] Controllable Text Generation with Neurally-Decomposed Oracle
@@ -12,9 +14,10 @@
 - [ ] [[ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search]]
 	- #A-star 
 	- 
-- [x] [[Evaluating and Mitigating Discrimination in Language Model Decisions]]
+- [x] Evaluating and Mitigating Discrimination in Language Model Decisions
+	- [[Evaluating and Mitigating Discrimination in Language Model Decisions]]
 	- #harmless #Anthropic 
-	- 
+	- 使用prompt有效改进了LM输出中存在的歧视内容；
 - [x] Mathematical discoveries from program search with large language models
 	- [[FunSearch]] 
 	- 并不是完成**推理**任务；而是在一个组合问题上找到了一个高维的新算法；

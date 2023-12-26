@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2cd65e244044cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "45d8490484985c9c",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md"
+                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md"
               }
             }
           }
@@ -158,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b2cd65e244044cf0",
+  "active": "45d8490484985c9c",
   "lastOpenFiles": [
-    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
-    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/Q-star.md",
+    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
     "RL/RLHF/RLHF.md",
     "talkings/PixelDance：高动态性视频生成.md",
     "talkings/PixelDance：高动态性视频生成.pdf",
@@ -177,7 +166,6 @@
     "RL/Q-star/math/FunSearch.pdf",
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf",
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf.crdownload",
-    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/A-star algorithm.md",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf",
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf.crdownload",
@@ -186,7 +174,6 @@
     "LLM-basic/LLM-basic.md",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
     "LLM-basic/Emergent Abilities of Large Language Models.pdf",
-    "RL/Q-star/math/Mathematical discoveries from program search with large language models.pdf",
     "README.md",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Policy Optimization in RLHF-The Impact of Out-of-preference Data.md",
