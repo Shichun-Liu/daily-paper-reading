@@ -24,4 +24,14 @@ Decision-Making**）的框架。如图 1（右图）所示，我们将输入（�
 	- 即使是失败的轨迹也包含解决某些子目标的有用子轨迹，因此我们在事后重新标记阶段（hindsight relabeling stage）重新标记这些目标。重新标记的目标描述了在提取的子轨迹中所实现的目标。
 	- 策略更新阶段（policy update stage）对重新标记的轨迹进行采样以更新策略。
 	- 主动数据收集程序使我们能够在没有预先收集的专家数据的情况下训练 LM 策略。它在具体决策任务上的表现也**优于强化学习（RL）方法**，并且能够更有效地泛化到新任务。
-- 
+- LID 具有泛化性的三个原因
+	- 使用**language-based input embeddings**，利用了LM对于语言字符串的推理能力；但是具体的encoding方式是不重要的，可以是自然语言也可以不是；
+	- the **sequential structure** of transformer inputs，相比于大多数policy框架使用的固定大小的observation；
+	- task-general inductive bias conferred by **weight initialization with LM pretraining**（说明PLM的初始预训练参数学到了有助于推理的知识）；
+- **主要贡献**
+	- First, we propose to use pre-trained LMs as a general scaffold for **interactive decision-making** across a variety of environments by **converting all policy inputs into sequential data**.
+	- Second, we demonstrate that language modeling improves combinatorial generalization in policy learning: initializing a policy with a pre-trained LM substantially improves out-of-distribution performance on novel tasks.
+	- Third, we integrate an **active data gathering** procedure into the proposed approach to further enable policy learning on environments without using pre-collected expert data.
+	- Finally, we perform several analyses to explain the generalization capabilities of pre-trained LMs, finding that natural strings are not needed to benefit from LM pre-training, but the sequential input encoding and weight pre-training are important.
+
+ 

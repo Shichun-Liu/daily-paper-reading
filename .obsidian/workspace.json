@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+                "file": "talkings/PixelDance：高动态性视频生成.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+                "file": "talkings/PixelDance：高动态性视频生成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+                "file": "talkings/PixelDance：高动态性视频生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md"
+                "file": "talkings/PixelDance：高动态性视频生成.md"
               }
             }
           }
@@ -161,8 +161,13 @@
   },
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
-    "RL/Q-star/Q-star.md",
+    "talkings/PixelDance：高动态性视频生成.pdf",
+    "talkings/多模态大模型-2.md",
+    "talkings/talking-list.md",
+    "talkings/PixelDance：高动态性视频生成.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
+    "RL/Q-star/Q-star.md",
     "RL/RLHF/RLHF.md",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
@@ -192,11 +197,6 @@
     "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
     "RL/RL基础/RL-10-Actor-Critic Method.md",
     "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
-    "RL/RL.md",
-    "RL/随想.md",
-    "RL/weak-to-strong/weak-to-strong.md",
-    "RL/RL基础/RL基础.md",
-    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",
