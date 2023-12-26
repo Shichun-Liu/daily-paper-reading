@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
+                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
+                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
+                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md"
+                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md"
               }
             }
           }
@@ -148,17 +148,20 @@
   },
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
-    "RL/Q-star/Q-star.md",
-    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
-    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
+    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/Large Language Models as Commonsense Knowledge for Large-Scale Task Planning.md",
+    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
+    "LLM-basic/对比学习.md",
+    "LLM-basic/LLM-basic.md",
+    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
     "RL/RLHF/RLHF.md",
     "talkings/PixelDance：高动态性视频生成.md",
     "talkings/PixelDance：高动态性视频生成.pdf",
     "talkings/多模态大模型-2.md",
     "talkings/talking-list.md",
-    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Q-star/MCTS-RL.md",
@@ -171,7 +174,6 @@
     "RL/Q-star/math/s41586-023-06924-6_reference.pdf.crdownload",
     "RL/Q-star/math/d551875fc33e4f04aee2e517517cb0b0/5982f02ffd9f44408a2e0e299b95f623.pdf",
     "RL/Q-star/math/d551875fc33e4f04aee2e517517cb0b0",
-    "LLM-basic/LLM-basic.md",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
     "LLM-basic/Emergent Abilities of Large Language Models.pdf",
     "README.md",
@@ -182,7 +184,6 @@
     "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
     "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
     "RL/RL基础/RL-10-Actor-Critic Method.md",
-    "RL/RLHF/A General Language Assistant as a Laboratory for Alignment.md",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",

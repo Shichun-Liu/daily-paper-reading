@@ -4,8 +4,7 @@
 - [[MCTS-RL]]
 	- AlphaZero
 	- MuZero
-- [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
-- 
+
 
 ## paper list
 - [x] Controllable Text Generation with Neurally-Decomposed Oracle
@@ -28,6 +27,9 @@
 	- **具身场景任务**；
 	- 把goal，observation，history进行表示为自然语言序列，通过PLM来预测next action；
 	- 有SL部分也有主动数据收集的部分（经验回放，重新标注）
-- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
-- [[Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding]]
-- 
+- [ ] LLM+MCTS  [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
+	- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
+	- [[Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding]]
+	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
+	- 
+	- 
