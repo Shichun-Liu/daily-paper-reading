@@ -31,5 +31,6 @@
 	- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
 	- [[Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding]]
 	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
-	- 
-	- 
+- [ ] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning
+	- [[Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning]]
+	- 结构化推理

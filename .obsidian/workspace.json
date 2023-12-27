@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
+                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
+                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
+                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md"
+                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md"
               }
             }
           }
@@ -148,11 +148,19 @@
   },
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
+    "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
+    "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
+    "RL/Q-star/0d9cdd04818b498a868371781993d72a",
+    "RL/Q-star/Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training.pdf",
+    "RL/Q-star/Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training.pdf.crdownload",
+    "RL/Q-star/2312.14878.pdf",
+    "RL/Q-star/2312.14878.pdf.crdownload",
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
+    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
-    "RL/Q-star/Q-star.md",
     "RL/Q-star/Large Language Models as Commonsense Knowledge for Large-Scale Task Planning.md",
-    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "LLM-basic/对比学习.md",
     "LLM-basic/LLM-basic.md",
     "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
@@ -168,22 +176,14 @@
     "RL/Q-star/math/FunSearch.md",
     "RL/Q-star/math/FunSearch.pdf",
     "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf",
-    "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf.crdownload",
     "RL/Q-star/A-star algorithm.md",
-    "RL/Q-star/math/s41586-023-06924-6_reference.pdf",
-    "RL/Q-star/math/s41586-023-06924-6_reference.pdf.crdownload",
-    "RL/Q-star/math/d551875fc33e4f04aee2e517517cb0b0/5982f02ffd9f44408a2e0e299b95f623.pdf",
-    "RL/Q-star/math/d551875fc33e4f04aee2e517517cb0b0",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
-    "LLM-basic/Emergent Abilities of Large Language Models.pdf",
     "README.md",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Policy Optimization in RLHF-The Impact of Out-of-preference Data.md",
     "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
     "RL/RLHF/Constitutional AI-Harmlessness from AI Feedback.md",
     "RL/RLHF/Preference Learning（Bradley–Terry, The Goodhart's Law, RLHF, ESPD）.md",
-    "RL/RLHF/Training language models to follow instructions with human feedback(InstructGPT).md",
-    "RL/RL基础/RL-10-Actor-Critic Method.md",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",
