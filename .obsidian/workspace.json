@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
+                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
+                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
+                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md"
+                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a",
@@ -155,8 +157,6 @@
     "RL/Q-star/Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training.pdf.crdownload",
     "RL/Q-star/2312.14878.pdf",
     "RL/Q-star/2312.14878.pdf.crdownload",
-    "RL/Q-star/Q-star.md",
-    "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
     "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
@@ -175,7 +175,6 @@
     "RL/Q-star/MCTS-RL.md",
     "RL/Q-star/math/FunSearch.md",
     "RL/Q-star/math/FunSearch.pdf",
-    "RL/Q-star/math/Mathematical-discoveries-from-program-search-with-large-language-models.pdf",
     "RL/Q-star/A-star algorithm.md",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
     "README.md",

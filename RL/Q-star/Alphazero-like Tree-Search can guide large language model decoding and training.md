@@ -5,3 +5,5 @@
 1. 高效的rollout(采样)
 2. evaluation-function
 3. node-representation & edge-representation
+
+今日复习分布式系统，没时间看论文
