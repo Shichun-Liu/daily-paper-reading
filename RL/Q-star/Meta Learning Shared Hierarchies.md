@@ -33,3 +33,13 @@ Next, we will define a joint update period where **both sub-policies φ and mast
 从一个高层的角度来看，MLSH更新如下：首先从 $P_M$ 中采样一个MDP，然后初始化一个智能体，使用之前的子策略集合，master-policy使用随机参数。然后执行warm up来优化 $\theta$ 。然后进入联合更新阶段，最后reset master policy，重复这个过程。
 
 更新master policy的时候，每隔Ｎ个时间步更新一次，使用master policy得到的样本，然后更新sub policy的时候，使用sub policy 得到的样本，仅仅更新当前激活的子策略，将master policy的动作作为观测的一部分。
+
+**实验部分**
+
+作者考虑一系列的实验，包含两条曲线：首先是在整个分布下的所有任务的整体曲线，还有在一个任务下的曲线。对于总体训练曲线，作者在满足这个分布的所有任务中进行训练。
+
+在单独的采样任务中，利用之前训练好的子策略，然后仅仅更新master policy的参数来学习新的任务。通过实验发现MLSH可以学习到有意义的子策略，同时可以在新的任务中实现比较好的迁移。解决一些常规强化学习方法无法解决的任务。
+
+**总结**
+
+文章结构清晰，实验充分，同时实现了较好的效果，理解起来也比较容易。结构比较简单，有提升空间，主要的创新点我认为集中在训练方法上。而结构我认为和SNN4HRL（[赵英男：Stochastic Neural Networks For Hierarchical RL](https://zhuanlan.zhihu.com/p/75637716)）那篇文章也比较相似，都是主策略来调用不同的子策略。区别在于这篇文章更加侧重于子策略的泛化和迁移，提出了共享子策略的概念，但是本质我认为都是相同的。
