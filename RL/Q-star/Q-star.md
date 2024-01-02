@@ -28,6 +28,9 @@
 	- 把goal，observation，history进行表示为自然语言序列，通过PLM来预测next action；
 	- 有SL部分也有主动数据收集的部分（经验回放，重新标注）
 - [ ] LLM+MCTS  [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
+	- Solving Math Word Problem via Cooperative Reasoning induced Language Models
+		- CoRe (Zhu et al., 2022) fine-tunes reasoning step **generator** and **verifier** for math word problems with MCTS for decoding.
+		- 
 	- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
 		- 提出通用任务上基于MCTS-Rollout的LLM训练新范式；
 		- 三个网络：policy network，reward model，value function；
@@ -37,7 +40,12 @@
 		- 基于token-level的引导编码，在四个任务上取得了较好结果；
 	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
 	- [[Reasoning with Language Model is Planning with World Model]]
-	- 
+		- 使用LLM构建世界模型，从而引入了四种不同的reward function（动作概率，状态置信度，自我检测，针对特定任务的启发式函数）；不同的组合，适用于不同的任务；
+		- 在计划生成，GSM8k，逻辑推演上进行实验；
 - [x] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning
 	- [[Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning]]
 	- 结构化推理
+
+## Planning
+
+- [ ] LLM+P: Empowering Large Language Models with Optimal Planning Proficiency
