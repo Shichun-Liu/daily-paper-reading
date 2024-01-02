@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -149,6 +150,8 @@
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
     "RL/Q-star/Q-star.md",
+    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
+    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
@@ -159,7 +162,6 @@
     "RL/Q-star/2312.14878.pdf.crdownload",
     "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
-    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Large Language Models as Commonsense Knowledge for Large-Scale Task Planning.md",
     "LLM-basic/对比学习.md",
     "LLM-basic/LLM-basic.md",
