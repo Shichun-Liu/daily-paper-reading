@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+                "file": "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+                "file": "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+                "file": "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md"
+                "file": "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "45d8490484985c9c",
   "lastOpenFiles": [
-    "RL/Q-star/Q-star.md",
-    "RL/Q-star/Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+    "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
+    "RL/Q-star/Q-star.md",
     "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
     "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
     "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
