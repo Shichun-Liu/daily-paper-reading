@@ -28,7 +28,7 @@
 	- 把goal，observation，history进行表示为自然语言序列，通过PLM来预测next action；
 	- 有SL部分也有主动数据收集的部分（经验回放，重新标注）
 - [ ] LLM+MCTS  [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
-	- Solving Math Word Problem via Cooperative Reasoning induced Language Models
+	- [[Solving Math Word Problem via Cooperative Reasoning induced Language Models]]
 		- CoRe (Zhu et al., 2022) fine-tunes reasoning step **generator** and **verifier** for math word problems with MCTS for decoding.
 		- 
 	- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
