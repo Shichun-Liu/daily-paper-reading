@@ -39,6 +39,9 @@
 		- 把PPO过程中使用的value function作为MCTS中对于node的评估函数使用；
 		- 基于token-level的引导编码，在四个任务上取得了较好结果；
 	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
+		- 机器人对象重排任务；
+		- 使用MCTS比较常规，主要贡献是将LLM引入到这个任务中，并对于MCTS的node和edge进行建模；
+		- 使用LLM的常识知识给出每个物品的位置信念，并使用LLM进行规划。
 	- [[Reasoning with Language Model is Planning with World Model]]
 		- 使用LLM构建世界模型，从而引入了四种不同的reward function（动作概率，状态置信度，自我检测，针对特定任务的启发式函数）；不同的组合，适用于不同的任务；
 		- 在计划生成，GSM8k，逻辑推演上进行实验；
