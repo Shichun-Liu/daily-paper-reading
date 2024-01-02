@@ -68,12 +68,10 @@ Open Problems and Fundamental Limitations of Reinforcement Learning from Human F
 	- 并不是完成了数学推理任务；而是在一个组合问题上找到了一个高维的新算法；
 	- 有一个简洁的评估器，把求解数学问题转化为生成相应的求解算法；
 	- LLM+进化算法，通过迭代更新一个代码库；
-- 
+
 ## 其他
 - [大语言模型（LLM）的进化树，学习LLM看明白这一张图就够了 - 知乎](https://zhuanlan.zhihu.com/p/627491455)
 - [DeepMind科学家:GPT模型不够好，还差搜索！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Eb4y1T7Fw/?buvid=XX7888273AF7697D5818467BE308AF8DD2080&from_spmid=default-value&is_story_h5=false&mid=X%2BBahFQiuDNXsN4Pq5HWJw%3D%3D&p=1&plat_id=122&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8b6269b1-e207-4305-b68e-c8a071c39aa4&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1702241765&unique_k=PNfwwXJ&up_id=437980486&vd_source=3f4448c688c0096124dbfa48b0a085c3)
 	- 当前的语言模型（LLMs）主要涉及学习方面，而对于创造性问题解决，特别是在类似AlphaGo的情境中，需要引入**搜索**的概念。；
 	- LLM现在所作的只是基于现有数据的模仿或者混合，并不是真正的创造；因此现在的模型并不会产生超过其预训练数据的能力，直至引入一个强大的搜索算法；
 - [openai-preparedness-framework-beta.pdf](https://cdn.openai.com/openai-preparedness-framework-beta.pdf)
-- [practices-for-governing-agentic-ai-systems.pdf](https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf)
-- 

@@ -33,9 +33,11 @@
 		- 三个网络：policy network，reward model，value function；
 		- 可以从两个粒度（句子/token）解决推理任务和RLHF任务；
 	- [[Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding]]
+		- 把PPO过程中使用的value function作为MCTS中对于node的评估函数使用；
+		- 基于token-level的引导编码，在四个任务上取得了较好结果；
 	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
 	- [[Reasoning with Language Model is Planning with World Model]]
 	- 
-- [ ] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning
+- [x] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning
 	- [[Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning]]
 	- 结构化推理
