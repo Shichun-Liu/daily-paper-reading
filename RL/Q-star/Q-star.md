@@ -29,7 +29,9 @@
 	- 有SL部分也有主动数据收集的部分（经验回放，重新标注）
 - [ ] LLM+MCTS  [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
 	- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
-		- 通用任务，LLM训练新范式；
+		- 提出通用任务上基于MCTS-Rollout的LLM训练新范式；
+		- 三个网络：policy network，reward model，value function；
+		- 可以从两个粒度（句子/token）解决推理任务和RLHF任务；
 	- [[Making PPO even better-Value-Guided Monte-Carlo Tree Search decoding]]
 	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
 	- [[Reasoning with Language Model is Planning with World Model]]

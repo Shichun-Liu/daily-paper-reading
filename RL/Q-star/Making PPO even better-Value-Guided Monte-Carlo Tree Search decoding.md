@@ -4,8 +4,16 @@ tags:
   - PPO
 date: 2023-10-18
 ---
+## 主要内容
+- 使用value-function来估计中间节点的reward而不需要rollout；
+- 使用state value来近似action value；默认所有action是均匀分布的；
+- 当进行backpropagation时，通过以下方式更新state-action-value-function(state-action-value-function的标准更新方法):
+
+![image.png|525](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240102143415.png)
+
+- 
 - PPO-MCTS；
-- 对策略网络的文本进行编码是不丢弃value-network；在推理生成过程中，将value-function与policy network相结合；
+- 对策略网络的文本进行编码时不丢弃value-network；在推理生成过程中，将value-function与policy network相结合；
 - 与其他基于MCTS的受控文本生成的方法相比，该方法减少训练和测试之间部分输出的评分机制的不匹配；
 - 实验：在4个文本生成任务上，PPO-MCTS极大提高了生成文本的偏好性；搜索算法具有较好前景。
 
