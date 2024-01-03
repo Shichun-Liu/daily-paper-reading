@@ -36,8 +36,8 @@ TODO
 - [ ] Deep Reinforcement Learning from Human Preferences, NIPS 2017 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1706.03741)
 - [ ] Learning to summarize from human feedback, Arxiv 2020 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2009.01325)
 - [ ] A General Language Assistant as a Laboratory for Alignment, Arxiv 2021 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2112.00861)
-- [ ] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2204.05862)
-- [ ] Teaching language models to support answers with verified quotes, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2203.11147)
+- [x] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2204.05862)
+- [x] Teaching language models to support answers with verified quotes, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2203.11147)
 - [x] InstructGPT: Training language models to follow instructions with human feedback, 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2203.02155)
 - [ ] Improving alignment of dialogue agents via targeted human judgements, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2209.14375)
 - [ ] Scaling Laws for Reward Model Overoptimization, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2210.10760)
@@ -50,8 +50,7 @@ TODO
 - [ ] Specific versus General Principles for Constitutional AI
 - [ ] Failure Modes of Learning Reward Models for LLMs and other Sequence Models
 
-
-Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
+- [ ] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
 ### harmless
 
 - [ ] Red Teaming Language Models with Language Models, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2202.03286)

@@ -10,7 +10,7 @@
 - [x] Controllable Text Generation with Neurally-Decomposed Oracle
 	- [[Controllable Text Generation with Neurally-Decomposed Oracle]] 
 	- 给定一个基本的预训练语言模型和sequence-level oracle function（指示是否满足规则），通过训练辅助模型NADO，把序列级规则分解问token级指导，引导模型进行可控文本生成。
-- [ ] [[ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search]]
+- [ ] [[ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search]]
 	- #A-star 
 	- 
 - [x] Evaluating and Mitigating Discrimination in Language Model Decisions
@@ -27,10 +27,9 @@
 	- **具身场景任务**；
 	- 把goal，observation，history进行表示为自然语言序列，通过PLM来预测next action；
 	- 有SL部分也有主动数据收集的部分（经验回放，重新标注）
-- [ ] LLM+MCTS  [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
+- [x] LLM+MCTS  [LLM的快思考与慢思考路线之MCTS - 知乎](https://zhuanlan.zhihu.com/p/659230417)
 	- [[Solving Math Word Problem via Cooperative Reasoning induced Language Models]]
 		- CoRe (Zhu et al., 2022) fine-tunes reasoning step **generator** and **verifier** for math word problems with MCTS for decoding.
-		- 
 	- [[Alphazero-like Tree-Search can guide large language model decoding and training]]
 		- 提出通用任务上基于MCTS-Rollout的LLM训练新范式；
 		- 三个网络：policy network，reward model，value function；

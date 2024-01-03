@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md"
+                "file": "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "56b19fc726dc8093",
+  "active": "6169f06db7d862c5",
   "lastOpenFiles": [
     "RL/Q-star/Q-star.md",
+    "RL/RLHF/RLHF.md",
     "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Q-star/Large Language Models as Commonsense Knowledge for Large-Scale Task Planning.md",
@@ -159,7 +160,6 @@
     "RL/随想.md",
     "2023-10-02.md",
     "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
-    "RL/RLHF/RLHF.md",
     "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
     "RL/Q-star/Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning.md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
@@ -178,7 +178,7 @@
     "talkings/PixelDance：高动态性视频生成.pdf",
     "talkings/多模态大模型-2.md",
     "talkings/talking-list.md",
-    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star--Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Q-star/math/FunSearch.md",
     "RL/Q-star/math/FunSearch.pdf",
