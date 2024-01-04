@@ -5,14 +5,14 @@
 	- AlphaZero
 	- MuZero
 
-
 ## paper list
 - [x] Controllable Text Generation with Neurally-Decomposed Oracle
 	- [[Controllable Text Generation with Neurally-Decomposed Oracle]] 
 	- 给定一个基本的预训练语言模型和sequence-level oracle function（指示是否满足规则），通过训练辅助模型NADO，把序列级规则分解问token级指导，引导模型进行可控文本生成。
 - [ ] [[ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search]]
 	- #A-star 
-	- 
+	- 对于cost function的设计非常巧妙：g由LCS分数以及动作一致性分数构成，h由LCS分数以及LLM打分构成；
+	- 还没看完，但是有一个函数call过程数据集是关键；
 - [x] Evaluating and Mitigating Discrimination in Language Model Decisions
 	- [[Evaluating and Mitigating Discrimination in Language Model Decisions]]
 	- #harmless #Anthropic 
@@ -35,8 +35,9 @@
 		- 三个网络：policy network，reward model，value function；
 		- 可以从两个粒度（句子/token）解决推理任务和RLHF任务；
 	- [[Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding]]
-		- 把PPO过程中使用的value function作为MCTS中对于node的评估函数使用；
+		- 把PPO过程中使用的value function作为MCTS中对于node的评估函数使用，不需要rollout；
 		- 基于token-level的引导编码，在四个任务上取得了较好结果；
+		- 使用TD-λ来给出中间过程reward；
 	- [[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning]]
 		- 机器人对象重排任务；
 		- 使用MCTS比较常规，主要贡献是将LLM引入到这个任务中，并对于MCTS的node和edge进行建模；
