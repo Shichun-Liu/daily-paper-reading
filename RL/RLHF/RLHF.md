@@ -26,7 +26,10 @@
 	- 
 - [[Scaling Laws for Reward Model Overoptimization]]
 	- 2022/10/19, OpenAI
-	- 
+	- 以KL Div表示的scaling law在不同的policy optimization下是不一样的（这说明了KL Div并不是一个好的描述变量）;
+	- 在PPO里的learning objective加KL-Div 等价于early stop，会带来更大的Proxy-Golden Gap（这个比较直观，因为KL-Regularizer那一项只是为了让优化更慢用的，它本身对于Golden Reward就是加bias减variance的；
+	- 一个重要的问题是，得到的结论似乎是hyper-param- dependent的，也就是说这些scaling law和预测只能用于特定的setting，如果换了一组PPO参数，是否scaling law需要重新寻找/标定？这样的话用于预测的意义就不大了；
+- 
 TODO
 
 ## 原理
@@ -42,7 +45,7 @@ TODO
 - [x] Teaching language models to support answers with verified quotes, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2203.11147)
 - [x] InstructGPT: Training language models to follow instructions with human feedback, 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2203.02155)
 - [ ] Improving alignment of dialogue agents via targeted human judgements, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2209.14375)
-- [ ] Scaling Laws for Reward Model Overoptimization, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2210.10760)
+- [x] Scaling Laws for Reward Model Overoptimization, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2210.10760)
 - [ ] Scalable Oversight: Measuring Progress on Scalable Oversight for Large Language Models, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2211.03540.pdf)
 - [x] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
 - [x] A General Language Assistant as a Laboratory for Alignment
@@ -51,7 +54,6 @@ TODO
 - [x] Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [ ] Specific versus General Principles for Constitutional AI
 - [ ] Failure Modes of Learning Reward Models for LLMs and other Sequence Models
-
 - [ ] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
 ### harmless
 
