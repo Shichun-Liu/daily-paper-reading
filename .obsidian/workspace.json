@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
+                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
+                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
+                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md"
+                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "ede00786f92fbbd0",
   "lastOpenFiles": [
     "RL/RLHF/RLHF.md",
+    "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
     "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
     "RL/RLHF/Scaling Laws for Reward Model Overoptimization.md",
     "RL/RL.md",
@@ -182,7 +183,6 @@
     "LLM-basic/对比学习.md",
     "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
-    "talkings/PixelDance：高动态性视频生成.md",
     "talkings/PixelDance：高动态性视频生成.pdf",
     "RL/Q-star/math/FunSearch.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
