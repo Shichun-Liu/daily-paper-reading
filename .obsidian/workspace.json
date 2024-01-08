@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8888aeef24c91555",
+        "id": "1f993d27fe14b1fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ede00786f92fbbd0",
+            "id": "05adb1860b79ee77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
+                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
+                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
+                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md"
+                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md"
               }
             }
           }
@@ -147,14 +147,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ede00786f92fbbd0",
+  "active": "05adb1860b79ee77",
   "lastOpenFiles": [
+    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
+    "RL/Q-star/Q-star.md",
     "RL/RLHF/RLHF.md",
-    "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
+    "RL/Q-star/MCTS-RL.md",
+    "RL/Q-star/Meta Learning Shared Hierarchies.md",
+    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
+    "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
     "RL/RLHF/Scaling Laws for Reward Model Overoptimization.md",
     "RL/RL.md",
-    "RL/Q-star/Q-star.md",
     "RL/RL基础/RL基础.md",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Reinforcement Learning Upside Down-Don't Predict Rewards -- Just Map Them to Actions.md",
@@ -162,12 +167,9 @@
     "RL/weak-to-strong/weak-to-strong.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
-    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Q-star/Large Language Models as Commonsense Knowledge for Large-Scale Task Planning.md",
-    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
-    "RL/Q-star/MCTS-RL.md",
     "RL/随想.md",
     "2023-10-02.md",
     "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
@@ -180,8 +182,6 @@
     "RL/Q-star/2312.14878.pdf",
     "RL/Q-star/2312.14878.pdf.crdownload",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
-    "LLM-basic/对比学习.md",
-    "RL/Q-star/Evaluating and Mitigating Discrimination in Language Model Decisions.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
     "talkings/PixelDance：高动态性视频生成.pdf",
     "RL/Q-star/math/FunSearch.pdf",

@@ -23,13 +23,14 @@
 	- 发现语言模型策略和奖励函数之间的映射，使得能够直接训练语言模型以满足人类偏好。这种方法使用简单的交叉熵损失，无需强化学习或牺牲通用性。
 	- RLHF和DPO的差异本质就是理解强化学习的value estimation和reward的差异。DPO就相当于直接用reward做对策略做正相关优化，而且还是*贪心优化* 。而RL的value estimation则是expected future rewards，相当于*动态规划* 的backup table值而不是贪心值，RL难其实就是没拟合好value estimation，用欠佳的监督对策略做正相关优化。
 - [[Policy Optimization in RLHF：The Impact of Out-of-preference Data]]
-	- 
+	- 比较了DPO与PPO；DPO使用经验数据分布代替了真实数据分布，泛化性有所减弱；PPO的泛化性较好，问题是难训；
 - [[Scaling Laws for Reward Model Overoptimization]]
 	- 2022/10/19, OpenAI
 	- 以KL Div表示的scaling law在不同的policy optimization下是不一样的（这说明了KL Div并不是一个好的描述变量）;
 	- 在PPO里的learning objective加KL-Div 等价于early stop，会带来更大的Proxy-Golden Gap（这个比较直观，因为KL-Regularizer那一项只是为了让优化更慢用的，它本身对于Golden Reward就是加bias减variance的；
 	- 一个重要的问题是，得到的结论似乎是hyper-param- dependent的，也就是说这些scaling law和预测只能用于特定的setting，如果换了一组PPO参数，是否scaling law需要重新寻找/标定？这样的话用于预测的意义就不大了；
-- 
+- [[Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback]]
+	- RLHF三个阶段的局限性；
 TODO
 
 ## 原理
@@ -54,7 +55,7 @@ TODO
 - [x] Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [ ] Specific versus General Principles for Constitutional AI
 - [ ] Failure Modes of Learning Reward Models for LLMs and other Sequence Models
-- [ ] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
+- [x] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
 ### harmless
 
 - [ ] Red Teaming Language Models with Language Models, Arxiv 2022 [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2202.03286)
