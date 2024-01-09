@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
+                "file": "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
+                "file": "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
+                "file": "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md"
+                "file": "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md"
               }
             }
           }
@@ -149,11 +148,12 @@
   },
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
-    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
     "RL/Q-star/Q-star.md",
+    "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
+    "RL/Q-star/Meta Learning Shared Hierarchies.md",
+    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
     "RL/RLHF/RLHF.md",
     "RL/Q-star/MCTS-RL.md",
-    "RL/Q-star/Meta Learning Shared Hierarchies.md",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
@@ -181,7 +181,6 @@
     "RL/Q-star/Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training.pdf.crdownload",
     "RL/Q-star/2312.14878.pdf",
     "RL/Q-star/2312.14878.pdf.crdownload",
-    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.md",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
     "talkings/PixelDance：高动态性视频生成.pdf",
     "RL/Q-star/math/FunSearch.pdf",

@@ -48,6 +48,9 @@
 - [x] Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning
 	- [[Pangu-Agent：A Fine-Tunable Generalist Agent with Structured Reasoning]]
 	- 结构化推理
+- [ ] Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
+	- [[Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions]]
+	- 
 
 ## Planning
 
