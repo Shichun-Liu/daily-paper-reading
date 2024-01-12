@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RL基础/RL基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f7c0091ae68611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RL/RL基础/Towards Principled Unsupervised Learning.md",
+                "file": "RL/Q-star/Q-star.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RL基础/Towards Principled Unsupervised Learning.md",
+                "file": "RL/Q-star/Q-star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RL基础/Towards Principled Unsupervised Learning.md",
+                "file": "RL/Q-star/Q-star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RL基础/Towards Principled Unsupervised Learning.md"
+                "file": "RL/Q-star/Q-star.md"
               }
             }
           }
@@ -159,12 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5f7c0091ae68611",
+  "active": "05adb1860b79ee77",
   "lastOpenFiles": [
-    "RL/RL基础/RL基础.md",
-    "RL/RL基础/Towards Principled Unsupervised Learning.md",
     "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
     "RL/Q-star/Q-star.md",
+    "RL/Q-star/Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.md",
+    "RL/RL基础/Towards Principled Unsupervised Learning.md",
+    "RL/RL基础/RL基础.md",
+    "LLM-basic/LLM-basic.md",
+    "LLM-basic/Emergent Abilities of Large Language Models.md",
+    "LLM-basic/对比学习.md",
     "RL/Q-star/Meta Learning Shared Hierarchies.md",
     "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
     "RL/RLHF/RLHF.md",
@@ -177,16 +168,12 @@
     "RL/RL.md",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Reinforcement Learning Upside Down-Don't Predict Rewards -- Just Map Them to Actions.md",
-    "LLM-basic/LLM-basic.md",
     "RL/weak-to-strong/weak-to-strong.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Q-star/Large Language Models as Commonsense Knowledge for Large-Scale Task Planning.md",
-    "RL/随想.md",
-    "2023-10-02.md",
-    "RL/RLHF/Direct Preference Optimization-Your Language Model is Secretly a Reward Model(DPO).md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a",
