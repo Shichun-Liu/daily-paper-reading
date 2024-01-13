@@ -64,7 +64,12 @@
 	- [[Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions]]
 - [x] [[Meta Learning Shared Hierarchies]]
 	- 相似任务之间的迁移；
-- [ ] Stochastic Neural Networks For Hierarchical RL
+	- Robotic；
+- [x] Stochastic Neural Networks For Hierarchical RL
+	- 跟上一篇文章类似，也是一个manager policy，一些子任务policy；
+	- Robotic；
+- 
+
 ## Planning
 
 - [ ] LLM+P: Empowering Large Language Models with Optimal Planning Proficiency

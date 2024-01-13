@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Meta Learning Shared Hierarchies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fe58761b7b7023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
+                "file": "RL/Q-star/Q-star.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
+                "file": "RL/Q-star/Q-star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
+                "file": "RL/Q-star/Q-star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md"
+                "file": "RL/Q-star/Q-star.md"
               }
             }
           }
@@ -160,12 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "69fe58761b7b7023",
+  "active": "05adb1860b79ee77",
   "lastOpenFiles": [
-    "RL/Q-star/Q-star.md",
-    "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
-    "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
     "RL/Q-star/Meta Learning Shared Hierarchies.md",
+    "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
     "RL/weak-to-strong/weak-to-strong.md",
     "RL/Q-star/Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.md",
     "RL/RL基础/Towards Principled Unsupervised Learning.md",
