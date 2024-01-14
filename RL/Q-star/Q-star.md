@@ -57,19 +57,18 @@
 	- [[Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning]]
 	- 数学推理+fewshot CoT，构造了一个数学推理数据集
 	- 更像是Prompting的工作，与RL关系不是很大；
+
 - [ ] 
 
 ### meta-learning RL
-- [ ] Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
+- [x] Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
 	- [[Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions]]
 - [x] [[Meta Learning Shared Hierarchies]]
 	- 相似任务之间的迁移；
 	- Robotic；
-- [x] Stochastic Neural Networks For Hierarchical RL
+- [x] [[Stochastic Neural Networks For Hierarchical RL]]
 	- 跟上一篇文章类似，也是一个manager policy，一些子任务policy；
 	- Robotic；
-- 
+- [ ] 
 
-## Planning
 
-- [ ] LLM+P: Empowering Large Language Models with Optimal Planning Proficiency

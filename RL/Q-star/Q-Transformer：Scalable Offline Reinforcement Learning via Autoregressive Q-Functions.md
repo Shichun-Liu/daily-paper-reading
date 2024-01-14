@@ -1,9 +1,10 @@
 [【强化学习RL3】Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions - 知乎](https://zhuanlan.zhihu.com/p/658364677)
+[offline RL结合Transformer大规模预训练 ——Deepmind Q-Transformer论文解读 - 知乎](https://zhuanlan.zhihu.com/p/665068306)
 [[2309.10150] Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://arxiv.org/abs/2309.10150)
 [Q-Transformer](https://qtransformer.github.io/)
 
 - 领域：机器人操作+Q-learning；
-- 动机：我们希望比人类远程操作员更熟练的机器人系统，利用硬件的全部潜力快速、流畅可靠地执行任务。其次，我们希望机器人系统能够更好地自主收集的经验，而不是完全依赖高质量的演示。
+- 动机：我们希望**比人类更熟练**的机器人系统，利用硬件的全部潜力快速、流畅可靠地执行任务。其次，我们希望机器人系统能够更好地**自主收集**的经验，而不是完全依赖高质量的演示。
 
 ![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240109145642.png)
 
