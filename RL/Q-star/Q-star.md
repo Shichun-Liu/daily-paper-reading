@@ -8,7 +8,6 @@
 推理任务Paper+dataset
 [GitHub - atfortes/LLM-Reasoning-Papers: Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.](https://github.com/atfortes/LLM-Reasoning-Papers)
 
-
 ## paper list
 - [x] Controllable Text Generation with Neurally-Decomposed Oracle
 	- [[Controllable Text Generation with Neurally-Decomposed Oracle]] 
@@ -57,7 +56,6 @@
 	- [[Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning]]
 	- 数学推理+fewshot CoT，构造了一个数学推理数据集
 	- 更像是Prompting的工作，与RL关系不是很大；
-
 - [ ] 
 
 ### meta-learning RL
