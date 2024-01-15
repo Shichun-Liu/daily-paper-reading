@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Q-star/Q-star.md",
+                "file": "RL/层次推理/层次推理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-star/Q-star.md",
+                "file": "RL/层次推理/层次推理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/Q-star/Q-star.md",
+                "file": "RL/层次推理/层次推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/Q-star/Q-star.md"
+                "file": "RL/层次推理/层次推理.md"
               }
             }
           }
@@ -149,10 +148,13 @@
   },
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
-    "RL/Q-star/Meta Learning Shared Hierarchies.md",
     "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
+    "RL/RL.md",
     "RL/Q-star/Q-star.md",
+    "RL/层次推理/层次推理.md",
     "RL/Q-star/Q-Transformer：Scalable Offline Reinforcement Learning via Autoregressive Q-Functions.md",
+    "RL/层次推理",
+    "RL/Q-star/Meta Learning Shared Hierarchies.md",
     "RL/weak-to-strong/weak-to-strong.md",
     "RL/Q-star/Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.md",
     "RL/RL基础/Towards Principled Unsupervised Learning.md",
@@ -168,13 +170,11 @@
     "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
     "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
     "RL/RLHF/Scaling Laws for Reward Model Overoptimization.md",
-    "RL/RL.md",
     "RL/RL基础/DDPG.md",
     "RL/RLHF/Reinforcement Learning Upside Down-Don't Predict Rewards -- Just Map Them to Actions.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
-    "RL/Solving Math Word Problem via Cooperative Reasoning induced Language Models.md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a",
@@ -184,7 +184,6 @@
     "RL/Q-star/2312.14878.pdf.crdownload",
     "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
     "talkings/PixelDance：高动态性视频生成.pdf",
-    "RL/Q-star/math/FunSearch.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",
