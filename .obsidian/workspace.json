@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/层次推理/可靠推理.md",
+                "file": "RL/层次推理/reverse curriculum learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/层次推理/可靠推理.md",
+                "file": "RL/层次推理/reverse curriculum learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/层次推理/可靠推理.md",
+                "file": "RL/层次推理/reverse curriculum learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/层次推理/可靠推理.md"
+                "file": "RL/层次推理/reverse curriculum learning.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
-    "RL/层次推理/reverse curriculum learning.md",
     "RL/层次推理/可靠推理.md",
+    "RL/层次推理/reverse curriculum learning.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Q-star/Q-star.md",
     "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
