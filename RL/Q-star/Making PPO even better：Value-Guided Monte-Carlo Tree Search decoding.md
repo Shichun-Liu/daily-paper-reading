@@ -17,7 +17,7 @@ date: 2023-10-18
 ![image.png|650](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240102155139.png)
 
 - 使用state value来近似action value；默认所有action是均匀分布的；
-- 当进行backpropagation时，通过以下方式更新state-action-value-function(state-action-value-function的标准更新方法):
+- 当进行backpropagation时，通过以下方式更新state-action-value-function(state-action-value-function的标准更新方法)：
 
 ![image.png|650](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240102143415.png)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/层次推理/层次推理.md",
+                "file": "RL/层次推理/可靠推理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/层次推理/层次推理.md",
+                "file": "RL/层次推理/可靠推理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/层次推理/层次推理.md",
+                "file": "RL/层次推理/可靠推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/层次推理/层次推理.md"
+                "file": "RL/层次推理/可靠推理.md"
               }
             }
           }
@@ -149,12 +148,20 @@
   },
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
+    "RL/层次推理/reverse curriculum learning.md",
+    "RL/层次推理/可靠推理.md",
+    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
+    "RL/Q-star/Q-star.md",
+    "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
+    "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
+    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
+    "RL/RLHF/RLHF.md",
+    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
+    "RL/层次推理/层次推理.md",
     "RL/RL基础/RL基础-8-值函数近似/层次推理-1.md",
     "RL/层次推理/层次推理.pdf",
     "RL/层次推理/LLM+P：Empowering Large Language Models with Optimal Planning Proficiency.md",
-    "RL/层次推理/层次推理.md",
     "RL/Q-star/Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.md",
-    "RL/Q-star/Q-star.md",
     "RL/Q-star/math/FunSearch.md",
     "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
     "RL/Q-star/Stochastic Neural Networks For Hierarchical RL.md",
@@ -168,15 +175,7 @@
     "LLM-basic/LLM-basic.md",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
     "LLM-basic/对比学习.md",
-    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
-    "RL/RLHF/RLHF.md",
     "RL/Q-star/MCTS-RL.md",
-    "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
-    "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
-    "RL/RLHF/Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback.md",
-    "RL/RLHF/Policy Optimization in RLHF：The Impact of Out-of-preference Data.md",
-    "RL/RLHF/Scaling Laws for Reward Model Overoptimization.md",
-    "RL/RL基础/DDPG.md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a",
