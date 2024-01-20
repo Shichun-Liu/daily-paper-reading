@@ -98,3 +98,14 @@
 	- 因子分解也可以缓解有偏见的推理问题，我们使用[Turpin et al. (2023)](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2305.04388)提出的实验进行测试。具体而言，当我们提示模型执行因子分解而不是思维链或思维链分解时，在有偏见的情境下，模型的性能下降较少。
 - REFINER: Reasoning Feedback on Intermediate Representations
 	- 用于微调LM以在与提供自动反馈的评论模型交互时明确生成中间推理步骤；
+
+
+
+## RL+LLM+Reasoning
+- Agent 狼人杀；
+[LLM Agent论文分享：将RL引入LLM reasoning的一种新思路 - 知乎](https://zhuanlan.zhihu.com/p/663117317)
+[【强化学习 247】RL+LLM 若干工作介绍 - 知乎](https://zhuanlan.zhihu.com/p/632333523)
+
+
+- 我们要做数学问题也要有单一目标，而不能是分散的目标；比如GSM8K的数学题我认为是分散的目标，做24点就是一个单一的目标；
+- LLM不是做决策的，LLM是做探索的；RL policy从探索的可能action中选择一个；

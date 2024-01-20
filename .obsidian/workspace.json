@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/层次推理/reverse curriculum learning.md",
+                "file": "RL/层次推理/RL+推理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/层次推理/reverse curriculum learning.md",
+                "file": "RL/层次推理/RL+推理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/层次推理/reverse curriculum learning.md",
+                "file": "RL/层次推理/RL+推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/层次推理/reverse curriculum learning.md"
+                "file": "RL/层次推理/RL+推理.md"
               }
             }
           }
@@ -148,7 +148,15 @@
   },
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
+    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf",
+    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
+    "RL/层次推理/Peano-learning formal mathematical reasoning.pdf",
+    "RL/层次推理/Peano-learning formal mathematical reasoning.pdf.crdownload",
     "RL/层次推理/可靠推理.md",
+    "RL/层次推理/2306.03604.pdf",
+    "RL/层次推理/RL+推理.md",
+    "RL/层次推理/2306.03604.pdf.crdownload",
+    "RL/层次推理/RL推理.pdf",
     "RL/层次推理/reverse curriculum learning.md",
     "RL/Q-star/Controllable Text Generation with Neurally-Decomposed Oracle/Controllable Text Generation with Neurally-Decomposed Oracle.md",
     "RL/Q-star/Q-star.md",
@@ -157,9 +165,7 @@
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/RLHF/RLHF.md",
     "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
-    "RL/层次推理/层次推理.md",
     "RL/RL基础/RL基础-8-值函数近似/层次推理-1.md",
-    "RL/层次推理/层次推理.pdf",
     "RL/层次推理/LLM+P：Empowering Large Language Models with Optimal Planning Proficiency.md",
     "RL/Q-star/Boosting LLM Reasoning：Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.md",
     "RL/Q-star/math/FunSearch.md",
@@ -175,15 +181,9 @@
     "LLM-basic/LLM-basic.md",
     "LLM-basic/Emergent Abilities of Large Language Models.md",
     "LLM-basic/对比学习.md",
-    "RL/Q-star/MCTS-RL.md",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/515c9e391b574639a9af5d2074fcff21.pdf",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a",
-    "RL/Q-star/Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training.pdf",
-    "RL/Q-star/Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training.pdf.crdownload",
-    "RL/Q-star/2312.14878.pdf",
-    "RL/Q-star/2312.14878.pdf.crdownload",
-    "RL/Q-star/Pre-Trained Language Models for Interactive Decision-Making.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216112334.png",
     "RL/RL基础/RL基础-8-值函数近似/Pasted image 20231216111741.png",
