@@ -2,4 +2,4 @@
 [[RLHF]]
 [[Q-star]]
 [[随想]]
-[[RL+推理]]
+[[RL+Reasoning]]
