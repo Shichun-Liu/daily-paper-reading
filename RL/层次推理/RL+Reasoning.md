@@ -20,6 +20,8 @@
 - 
 ## 论文阅读
 - [[Cumulative Reasoning With Large Language Models]]
+	- 水文，但是结果蛮好；
+	- 提供了一个不错的动作模板，推理+验证；
 - [[Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game]]
 	- Agent+RL 狼人杀；
 	- 

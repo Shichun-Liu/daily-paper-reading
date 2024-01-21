@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
+                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
+                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
+                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md"
+                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md"
               }
             }
           }
@@ -150,14 +150,14 @@
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
     "RL/层次推理/RL+Reasoning.md",
-    "RL/层次推理/RL推理.pdf",
     "RL/层次推理/RL-Reasoning-前期调研.md",
+    "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
+    "RL/层次推理/RL推理.pdf",
     "RL/层次推理/2306.03604.pdf",
     "RL/层次推理/可靠推理.md",
     "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
     "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
     "RL/层次推理/LLM+P：Empowering Large Language Models with Optimal Planning Proficiency.md",
-    "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
     "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf",
     "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf",
