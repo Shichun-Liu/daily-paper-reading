@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/层次推理/RL+Reasoning.md",
+                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/层次推理/RL+Reasoning.md",
+                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/层次推理/RL+Reasoning.md",
+                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/层次推理/RL+Reasoning.md"
+                "file": "RL/层次推理/Cumulative Reasoning With Large Language Models.md"
               }
             }
           }
@@ -148,9 +149,9 @@
   },
   "active": "05adb1860b79ee77",
   "lastOpenFiles": [
+    "RL/层次推理/RL+Reasoning.md",
     "RL/层次推理/RL推理.pdf",
     "RL/层次推理/RL-Reasoning-前期调研.md",
-    "RL/层次推理/RL+Reasoning.md",
     "RL/层次推理/2306.03604.pdf",
     "RL/层次推理/可靠推理.md",
     "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
