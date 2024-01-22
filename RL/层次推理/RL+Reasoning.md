@@ -24,4 +24,6 @@
 	- 提供了一个不错的动作模板，推理+验证；
 - [[Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game]]
 	- Agent+RL 狼人杀；
+	- 三个基本动作，分析总结历史，给出候选动作，RL选择动作；
+- [[ReFT：Reasoning with Reinforced Fine-Tuning]]
 	- 

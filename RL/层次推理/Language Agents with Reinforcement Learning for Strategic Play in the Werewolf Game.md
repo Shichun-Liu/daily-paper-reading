@@ -29,11 +29,9 @@
 #### RL policy 
 - population-based RL：由于我们的动作空间不是预定义的，我们不能使用典型的策略网络，该网络仅将状态作为输入并在固定动作集上产生分布。相反，我们首先使用 LLM 将游戏状态和来自自然语言的所有候选动作转换为**vector embeddings**。然后我们采用自注意力 (Vaswani et al., 2017) 网络，该网络将所有嵌入作为输入，以**在候选动作上产生分布**。更具体地说，游戏状态是第 4.1 节中描述的信息记录和演绎结果的串联，动作候选是 LLM 生成的推理和动作的串联，如第 4.2 节所述。这些自然语言由 LLM 转换为向量嵌入。我们还使用包含 ID、角色等玩家信息的向量，并通过 MLP 编码器传递向量以产生玩家嵌入。玩家嵌入和语言嵌入通过没有位置嵌入的残差自注意力块，对动作候选进行采样的概率计算为输出状态嵌入和输出动作嵌入之间的归一化点积注意力。
 - 生成了**一组固定的基于llm的代理**，这些代理具有不同的风格，作为队友和对手。
-We use **MAPPO** (Yu et al., 2022) as the RL algorithm and use population-based training to learn the policy. The population is initialized to a set of six LLM-based agents including a quiet follower (Werewolf), an active contributor (Werewolf), an aggressive accusor (Werewolf), a secretive player (non-Werewolf), a proactive player (non-Werewolf), and a default player (non-Werewolf). As training progresses, we gradually add checkpoints of the training policy into the population. More specifically, at the beginning of each episode, we randomly select four players to be the learning agents who use the current policy and three players to be the fixed agents who use fixed policies in the population. For each fixed agent, it randomly samples one policy from the population and uses this policy till the end of the game. In this way, we make the RL policy play with a wide range of policies both as teammates and opponents. **The rollout data of the four learning agents are then collected and used to train the RL policy**. The hyperparameters for RL training are listed in Table 3
-
-![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240122000553.png)
-
 
 ### Experiments
 - LLM used by all agents in our experiment is **gpt-3.5-turbo**；
-- 
+- We use **MAPPO** (Yu et al., 2022) as the RL algorithm and use population-based training to learn the policy. The population is initialized to a set of six LLM-based agents including a quiet follower (Werewolf), an active contributor (Werewolf), an aggressive accusor (Werewolf), a secretive player (non-Werewolf), a proactive player (non-Werewolf), and a default player (non-Werewolf). As training progresses, we gradually add checkpoints of the training policy into the population. More specifically, at the beginning of each episode, we randomly select four players to be the learning agents who use the current policy and three players to be the fixed agents who use fixed policies in the population. For each fixed agent, it randomly samples one policy from the population and uses this policy till the end of the game. In this way, we make the RL policy play with a wide range of policies both as teammates and opponents. **The rollout data of the four learning agents are then collected and used to train the RL policy**. The hyperparameters for RL training are listed in Table 3
+
+![image.png|224](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240122000553.png)

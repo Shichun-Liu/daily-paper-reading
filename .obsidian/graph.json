@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:RL/层次推理",
       "color": {
         "a": 1,
         "rgb": 6084269
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -54,5 +61,5 @@
   "linkStrength": 0.541522491349481,
   "linkDistance": 197,
   "scale": 0.6346285676930595,
-  "close": true
+  "close": false
 }

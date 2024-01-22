@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f993d27fe14b1fa",
+        "id": "6b1c27450a5f30bb",
         "type": "tabs",
         "children": [
           {
-            "id": "05adb1860b79ee77",
+            "id": "5f7f755b741ed1b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
+                "file": "RL/层次推理/ReFT：Reasoning with Reinforced Fine-Tuning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
+                "file": "RL/层次推理/ReFT：Reasoning with Reinforced Fine-Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
+                "file": "RL/层次推理/ReFT：Reasoning with Reinforced Fine-Tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md"
+                "file": "RL/层次推理/ReFT：Reasoning with Reinforced Fine-Tuning.md"
               }
             }
           }
@@ -147,20 +147,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05adb1860b79ee77",
+  "active": "5f7f755b741ed1b8",
   "lastOpenFiles": [
     "RL/层次推理/RL+Reasoning.md",
     "RL/层次推理/RL-Reasoning-前期调研.md",
-    "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
-    "RL/层次推理/RL推理.pdf",
+    "RL/层次推理/ReFT：Reasoning with Reinforced Fine-Tuning.md",
     "RL/层次推理/2306.03604.pdf",
     "RL/层次推理/可靠推理.md",
-    "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
+    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf",
     "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
     "RL/层次推理/LLM+P：Empowering Large Language Models with Optimal Planning Proficiency.md",
-    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf",
-    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
+    "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf",
+    "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
+    "RL/层次推理/RL推理.pdf",
+    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf.crdownload",
     "RL/层次推理/2306.03604.pdf.crdownload",
     "RL/层次推理/reverse curriculum learning.md",
