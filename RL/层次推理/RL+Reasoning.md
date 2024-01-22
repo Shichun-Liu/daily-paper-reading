@@ -26,4 +26,5 @@
 	- Agent+RL 狼人杀；
 	- 三个基本动作，分析总结历史，给出候选动作，RL选择动作；
 - [[ReFT：Reasoning with Reinforced Fine-Tuning]]
-	- 
+	- 先在正确的推理路径上SFT，再对于每道题在不同的路径上PPO；
+	- 推理模型就是RL模型；
