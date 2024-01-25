@@ -25,6 +25,14 @@
 - [[Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game]]
 	- Agent+RL 狼人杀；
 	- 三个基本动作，分析总结历史，给出候选动作，RL选择动作；
-- [[ReFT：Reasoning with Reinforced Fine-Tuning]]
+- [[ReFT Reasoning with Reinforced Fine-Tuning]]
 	- 先在正确的推理路径上SFT，再对于每道题在不同的路径上PPO；
 	- 推理模型就是RL模型；
+	- 我们后续工作跟这个类似，动作要更多元；
+### 多样化动作归纳
+- [[Self-Convinced Prompting Few-Shot Question Answering with Repeated Introspection]]
+- [[Retroformer Retrospective Large Language Agents with Policy Gradient Optimization]]
+- [[Controlling Large Language Model-based Agents for Large-Scale Decision-Making An Actor-Critic Approach]]
+- [[Math-Shepherd Verify and Reinforce LLMs Step-by-step without Human Annotations]]
+
+总结：[飞书 - 登录](https://fudannlp.feishu.cn/sheets/PoGisapTQhXa1Gt2C3acfBULnyh?from=from_copylink)
