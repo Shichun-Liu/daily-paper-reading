@@ -36,3 +36,5 @@
 - [[Math-Shepherd Verify and Reinforce LLMs Step-by-step without Human Annotations]]
 
 总结：[飞书 - 登录](https://fudannlp.feishu.cn/sheets/PoGisapTQhXa1Gt2C3acfBULnyh?from=from_copylink)
+
+今日休息，品读transformer代码
