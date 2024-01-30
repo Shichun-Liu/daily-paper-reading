@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe7f516de768779d",
+        "id": "477ac78404ced40c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca500a3e023fe820",
+            "id": "269706eeb32ae7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca500a3e023fe820",
+  "active": "269706eeb32ae7b8",
   "lastOpenFiles": [
-    "RL/层次推理/ReFT Reasoning with Reinforced Fine-Tuning.md",
     "RL/层次推理/RL+Reasoning.md",
+    "RL/层次推理/ReFT Reasoning with Reinforced Fine-Tuning.md",
     "RL/层次推理/Controlling Large Language Model-based Agents for Large-Scale Decision-Making An Actor-Critic Approach.md",
     "RL/层次推理/Math-Shepherd Verify and Reinforce LLMs Step-by-step without Human Annotations.md",
     "RL/层次推理/Retroformer Retrospective Large Language Agents with Policy Gradient Optimization.md",
