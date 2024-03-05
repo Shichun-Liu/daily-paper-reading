@@ -5,4 +5,6 @@
 - [[PixelDance：高动态性视频生成]]
 	- 2023-12-26
 	- 曾妍 字节跳动AI-LAB算法工程师
-- 
+- [[Sora解读]]
+	- 2024/2/27，周钰皓；
+- weak-to-strong+debate
