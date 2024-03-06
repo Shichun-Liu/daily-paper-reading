@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "talkings/weak-to-strong+debate.md",
+                "file": "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "talkings/weak-to-strong+debate.md",
+                "file": "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "talkings/weak-to-strong+debate.md",
+                "file": "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "talkings/weak-to-strong+debate.md"
+                "file": "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "0801554a91d81264",
   "lastOpenFiles": [
-    "talkings/talking-list.md",
+    "RL/层次推理/Reasoning综述.md",
+    "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
     "talkings/weak-to-strong+debate.md",
+    "talkings/talking-list.md",
     "talkings/Sora解读.pdf",
     "talkings/Sora解读.md",
     "talkings/多模态大模型-2.md",
@@ -181,8 +183,6 @@
     "RL/Q-star/Making PPO even better：Value-Guided Monte-Carlo Tree Search decoding.md",
     "RL/Q-star/Alphazero-like Tree-Search can guide large language model decoding and training.md",
     "RL/RLHF/RLHF.md",
-    "RL/Q-star/Reasoning with Language Model is Planning with World Model.md",
-    "RL/RL基础/RL基础-8-值函数近似/层次推理-1.md",
     "RL/层次推理",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",
