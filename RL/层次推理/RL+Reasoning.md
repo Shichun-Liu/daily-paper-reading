@@ -29,6 +29,11 @@
 	- 先在正确的推理路径上SFT，再对于每道题在不同的路径上PPO；
 	- 推理模型就是RL模型；
 	- 我们后续工作跟这个类似，动作要更多元；
+- [[ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL]]
+- [[Learning to Plan with Tree Search via Deep RL]]
+- 
+
+
 ### 多样化动作归纳
 - [[Self-Convinced Prompting Few-Shot Question Answering with Repeated Introspection]]
 - [[Retroformer Retrospective Large Language Agents with Policy Gradient Optimization]]
@@ -37,8 +42,3 @@
 
 总结：[飞书 - 登录](https://fudannlp.feishu.cn/sheets/PoGisapTQhXa1Gt2C3acfBULnyh?from=from_copylink)
 
-今日休息，品读transformer代码
-今天摸鱼
-准备配环境
-写ICML论文
-写Paper: TransferToD数据集
