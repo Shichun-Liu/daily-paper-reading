@@ -8,3 +8,7 @@
 - [[Sora解读]]
 	- 2024/2/27，周钰皓；
 - weak-to-strong+debate
+	- 2024/3/5 汪冰海；
+- Onebit Quantization
+	- 2024/3/12，陆毅
+	- 大模型量化；

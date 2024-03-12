@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/RLHF/Teaching Large Language Models to Reasonwith Reinforcement Learning.md",
+                "file": "talkings/Onebit Quantization.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/RLHF/Teaching Large Language Models to Reasonwith Reinforcement Learning.md",
+                "file": "talkings/Onebit Quantization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL/RLHF/Teaching Large Language Models to Reasonwith Reinforcement Learning.md",
+                "file": "talkings/Onebit Quantization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL/RLHF/Teaching Large Language Models to Reasonwith Reinforcement Learning.md"
+                "file": "talkings/Onebit Quantization.md"
               }
             }
           }
@@ -148,8 +149,11 @@
   },
   "active": "0801554a91d81264",
   "lastOpenFiles": [
-    "RL/层次推理/Reasoning综述.md",
+    "talkings/talking-list.md",
+    "talkings/Onebit Quantization.md",
     "RL/RLHF/Teaching Large Language Models to Reasonwith Reinforcement Learning.md",
+    "talkings/weak-to-strong+debate.md",
+    "RL/层次推理/Reasoning综述.md",
     "RL/RLHF/RLHF.md",
     "LLM-basic/对比学习.md",
     "RL/层次推理/可靠推理.md",
@@ -157,8 +161,6 @@
     "RL/层次推理/RL+Reasoning.md",
     "talkings/多模态大模型-2.md",
     "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
-    "talkings/weak-to-strong+debate.md",
-    "talkings/talking-list.md",
     "talkings/Sora解读.pdf",
     "talkings/Sora解读.md",
     "RL/Q-star/Meta Learning Shared Hierarchies.md",
@@ -181,7 +183,6 @@
     "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf.crdownload",
     "RL/层次推理/2306.03604.pdf.crdownload",
-    "RL/层次推理/reverse curriculum learning.md",
     "RL/层次推理",
     "RL/Q-star/0d9cdd04818b498a868371781993d72a/753ecffa8fed47b6aedc7cd80602c795.pdf",
     "RL/MCTS_RL/Pasted image 20231213225025.png",

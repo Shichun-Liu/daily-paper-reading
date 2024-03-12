@@ -1,10 +1,26 @@
+
+![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240311131201.png)
+
+![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240311131310.png)
+
 ## weak-to-strong 
 
 可扩展监督关键思想：利用人工智能提升监督能力；
 ### IDA
 迭代蒸馏放大
+
+基本思想：利用人类（擅长推理）+计算机（擅长计算）的结合蒸馏给一个model，并不断迭代该过程；或者人类负责分解难题为子问题，模型负责回答较为简单的子问题，人类聚合子回答得到最终回答（比人类直接回答原问题更好）；
+
+![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240311131534.png)
+
+
 关键假设：人类可以协调X的多个副本，以比单个X的副本表现更好；
 适用于人类本身可以回答的问题；
+
+概念实验
+
+![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240311132100.png)
+
 
 挑战
 
