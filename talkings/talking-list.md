@@ -7,8 +7,9 @@
 	- 曾妍 字节跳动AI-LAB算法工程师
 - [[Sora解读]]
 	- 2024/2/27，周钰皓；
-- weak-to-strong+debate
+- [[weak-to-strong+debate]]
 	- 2024/3/5 汪冰海；
-- Onebit Quantization
+- [[Onebit Quantization]]
 	- 2024/3/12，陆毅
 	- 大模型量化；
+- 具身智能

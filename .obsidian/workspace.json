@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "talkings/Onebit Quantization.md",
+                "file": "talkings/具身智能.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "talkings/Onebit Quantization.md",
+                "file": "talkings/具身智能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "talkings/Onebit Quantization.md",
+                "file": "talkings/具身智能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "talkings/Onebit Quantization.md"
+                "file": "talkings/具身智能.md"
               }
             }
           }
@@ -150,36 +150,36 @@
   "active": "0801554a91d81264",
   "lastOpenFiles": [
     "talkings/talking-list.md",
+    "talkings/具身智能.md",
+    "RL/层次推理/RL+Reasoning.md",
+    "RL/层次推理/可靠推理.md",
+    "RL/层次推理/2306.03604.pdf",
+    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf",
+    "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
+    "RL/层次推理/RL-Reasoning-前期调研.md",
+    "RL/层次推理/Controlling Large Language Model-based Agents for Large-Scale Decision-Making An Actor-Critic Approach.md",
+    "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
+    "RL/层次推理/Math-Shepherd Verify and Reinforce LLMs Step-by-step without Human Annotations.md",
     "talkings/Onebit Quantization.md",
     "RL/RLHF/Teaching Large Language Models to Reasonwith Reinforcement Learning.md",
     "talkings/weak-to-strong+debate.md",
     "RL/层次推理/Reasoning综述.md",
     "RL/RLHF/RLHF.md",
     "LLM-basic/对比学习.md",
-    "RL/层次推理/可靠推理.md",
     "RL/层次推理/Learning to Plan with Tree Search via Deep RL.md",
-    "RL/层次推理/RL+Reasoning.md",
     "talkings/多模态大模型-2.md",
-    "RL/层次推理/ArCHer-Training Language Model Agents viaHierarchical Multi-Turn RL.md",
     "talkings/Sora解读.pdf",
     "talkings/Sora解读.md",
     "RL/Q-star/Meta Learning Shared Hierarchies.md",
     "RL/层次推理/ReFT Reasoning with Reinforced Fine-Tuning.md",
-    "RL/层次推理/Controlling Large Language Model-based Agents for Large-Scale Decision-Making An Actor-Critic Approach.md",
-    "RL/层次推理/Math-Shepherd Verify and Reinforce LLMs Step-by-step without Human Annotations.md",
     "RL/层次推理/Retroformer Retrospective Large Language Agents with Policy Gradient Optimization.md",
     "RL/层次推理/Self-Convinced Prompting Few-Shot Question Answering with Repeated Introspection.md",
     "RL/层次推理/RL推理.pdf",
-    "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf",
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Q-star.md",
-    "RL/层次推理/RL-Reasoning-前期调研.md",
-    "RL/层次推理/2306.03604.pdf",
     "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
     "RL/层次推理/LLM+P：Empowering Large Language Models with Optimal Planning Proficiency.md",
-    "RL/层次推理/MathPrompter：Mathematical Reasoning using Large Language Models.md",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf",
-    "RL/层次推理/Cumulative Reasoning With Large Language Models.md",
     "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf.crdownload",
     "RL/层次推理/2306.03604.pdf.crdownload",

@@ -1,3 +1,7 @@
+---
+date: 2024-03-12
+---
+- 三篇文章，linear层压缩为2bit权重；
 ## 基础
 量化目的：压缩模型，减少现存占用。
 float32浮点型的权重近似为int8类型；
@@ -99,3 +103,4 @@ float32浮点型的权重近似为int8类型；
 
 意义
 ![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240312142251.png)
+
