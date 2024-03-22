@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "talkings/具身智能.md",
+                "file": "RL/层次推理/Learning to Decode Collaboratively with Multiple Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8e7a2d2865e4e8f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "talkings/具身智能.md",
+                "file": "RL/层次推理/Learning to Decode Collaboratively with Multiple Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "talkings/具身智能.md",
+                "file": "RL/层次推理/Learning to Decode Collaboratively with Multiple Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "talkings/具身智能.md"
+                "file": "RL/层次推理/Learning to Decode Collaboratively with Multiple Language Models.md"
               }
             }
           }
@@ -149,8 +148,9 @@
   },
   "active": "0801554a91d81264",
   "lastOpenFiles": [
-    "talkings/talking-list.md",
     "talkings/具身智能.md",
+    "RL/层次推理/Learning to Decode Collaboratively with Multiple Language Models.md",
+    "talkings/talking-list.md",
     "RL/层次推理/RL+Reasoning.md",
     "RL/层次推理/可靠推理.md",
     "RL/层次推理/2306.03604.pdf",
@@ -178,7 +178,6 @@
     "RL/Q-star/ToolChain-star-Efficient Action Space Navigation in Large Language Models with A-star Search/ToolChain-star：Efficient Action Space Navigation in Large Language Models with A-star Search.md",
     "RL/Q-star/Q-star.md",
     "RL/层次推理/Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game.md",
-    "RL/层次推理/LLM+P：Empowering Large Language Models with Optimal Planning Proficiency.md",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf",
     "RL/层次推理/A Reinforcement Learning Environment for Mathematical Reasoning via Program Synthesis.pdf.crdownload",
     "RL/层次推理/Peano-learning formal mathematical reasoning.pdf.crdownload",
