@@ -6,7 +6,6 @@
 [【强化学习 247】RL+LLM 若干工作介绍 - 知乎](https://zhuanlan.zhihu.com/p/632333523)
 - [[2303.04129] Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129)
 	- [决策基础模型：问题，方法和机会 - 知乎](https://zhuanlan.zhihu.com/p/654583552)
-	- 
 
 - 我们要做数学问题也要有单一目标，而不能是分散的目标；比如GSM8K的数学题我认为是分散的目标，做24点就是一个单一的目标；
 	- cube； 

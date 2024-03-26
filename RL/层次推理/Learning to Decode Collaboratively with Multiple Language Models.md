@@ -4,7 +4,7 @@ tags:
 date: 2024-03-01
 ---
 - MIT
-- 这篇工作提出了一种名为Co-LLM的方法，旨在教授多个大型语言模型（LLMs）通过在 token level 交替生成内容来协作。研究者将决定哪个LLM生成下一个token的决策建模为一个潜在变量。通过优化训练集在潜在变量模型下的边际似然，base LLM自动学习何时自我生成，何时调用“assistant”LM 来生成内容，所有这些操作都没有直接的监督。在解码过程中进行token级别的协作，可以根据特定任务的需求，融合每个模型的专长。
+- 这篇工作提出了一种名为Co-LLM的方法，旨在教授多个大型语言模型（LLMs）通过在 token level 交替生成内容来协作。研究者将决定**哪个LLM生成下一个token的决策建模为一个潜在变量**。通过优化训练集在潜在变量模型下的边际似然，base LLM自动学习何时自我生成，何时调用“assistant”LM 来生成内容，所有这些操作都**没有直接的监督**。在解码过程中进行token级别的协作，可以根据特定任务的需求，融合每个模型的专长。
 - Co-LLM特别适用于跨领域设置，其中一个通用基础LLM学习调用领域专家模型。在指令遵循、特定领域问答和推理任务上，研究表明联合系统的绩效超过了单个模型。通过对学习到的潜在决策进行定性分析，研究表明使用该方法训练的模型展示了几种有趣的协作模式，例如模板填充。
 - 探讨了在解码过程中的协作生成的潜在变量框架，描述了Co-LLM的训练和解码过程，并在多个任务上评估了Co-LLM的性能。结果表明，教授模型协作可以提高所有任务的性能，有时甚至可以匹配或超过对大型模型进行微调的性能。通过使用链式推理，Co-LLM也可以应用于分类任务，实验表明它通过增强推理能力提高了性能。研究还特别指出，Co-LLM在跨领域设置中特别有用，其中一个通用基础LLM学习调用领域专家模型。
 	- 数据集包括Tülu v2 mix（用于指令遵循任务）、GSM8k、MATH以及BioASQ（用于医疗问题回答）；
@@ -22,3 +22,13 @@ date: 2024-03-01
 7. **阈值搜索**：对于所有具有可学习模型选择器的方法（包括Co-LLM），研究者在测试前使用小规模验证集来选择最佳的η。
 
 通过这些步骤，Co-LLM能够在没有直接监督的情况下，从数据中学习如何最佳地协作生成内容。
+
+# 论文
+- 主要解决解码时如何组合多个LLM，并考虑速度、连贯、简洁等方面；
+- LLMs+Tool现有思路：需要一个流程规定how to combine models / when to use the tools；或者特定公式组合多个模型的logits；或者通过监督来训练模型需要在何时调用tools；本工作主要关注多个LLM在token-level交替生成的策略；
+- 弱模型(base model)搭建一个句子的脚手架，强模型(assistant model)完善细节部分；
+
+![image.png](https://raw.githubusercontent.com/Shichun-Liu/images-on-picgo/main/pics/20240325192339.png)
+
+- The framework centers around a finetunable **base model**, which itself is a relatively *small LM*. It decides which other **assistant models** (which are typically *larger* and/or more *specialized* models) to use **per token**.
+- 
